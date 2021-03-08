@@ -36,7 +36,7 @@
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/hello-world" class=""><h3 data-v-28f55286="" class="title
-              is-5
+              is-home
               has-text-weight-light
               ">
             Dev Talk ☕
@@ -49,7 +49,7 @@
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/getting-started-with-awake" class=""><h3 data-v-28f55286="" class="title
-              is-5
+              is-home
               has-text-weight-light
               ">
             Getting Started
@@ -60,7 +60,7 @@
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/built-for-speed" class=""><h3 data-v-28f55286="" class="title
-              is-5
+              is-home
               has-text-weight-light
               ">
             Built For Speed
@@ -122,6 +122,9 @@ export default {
   text-align: center;
   overflow: hidden;
   position: relative;
+}
+.title.is-home {
+    font-size: 1.25rem !important;
 }
 
 .title {
