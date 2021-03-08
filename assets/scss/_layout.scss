@@ -1,4 +1,10 @@
 /*! purgecss start ignore */
+@media screen and (min-width: 769px), print{
+.hero.is-medium .hero-body {
+    padding-bottom: 9rem;
+    padding-top: 9rem;
+}
+}
 .site-layout-width-full{
   .container{
     max-width:100% !important;
