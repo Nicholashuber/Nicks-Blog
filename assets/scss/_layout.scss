@@ -1,8 +1,8 @@
 /*! purgecss start ignore */
 @media screen and (min-width: 769px), print{
 .hero.is-medium .hero-body {
-    padding-bottom: 0rem;
-    padding-top: 0rem;
+    padding-bottom: 0rem !important;
+    padding-top: 0rem !important;
 }
 }
 .site-layout-width-full{
