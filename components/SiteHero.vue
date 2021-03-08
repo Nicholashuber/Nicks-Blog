@@ -32,7 +32,7 @@
     margin-left: 16.66667%;
     width: 66.66667%;
 "><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: #007bff!important;
+    border-color: #007bff !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/hello-world" class=""><h3 style="color: black !important;" data-v-28f55286="" class="title
@@ -45,7 +45,7 @@
     Load Comments
   </a>
   </span></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: #ffc107!important;
+    border-color: #ffc107 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/getting-started-with-awake" class=""><h3 style="color: black !important;" data-v-28f55286="" class="title
@@ -56,7 +56,7 @@
           </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Author:</strong> Daniel Kelly |
   </span> <span class="date-wrapper"><strong style="color: black !important;">Published on:</strong> August 3, 2019
   </span></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: #dc3545!important;
+    border-color: #dc3545 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/built-for-speed" class=""><h3 style="color: black !important;" data-v-28f55286="" class="title
