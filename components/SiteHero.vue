@@ -19,7 +19,69 @@
           v-if="$slots.default"
           class="under-subtitle animated fadeInDown slower"
         >
-          <slot />
+         <!-- <slot />-->
+
+
+
+
+<!--New Code-->
+
+
+
+<div data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
+    margin-left: 16.66667%;
+    width: 66.66667%;
+"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: #007bff!important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/hello-world" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            Dev Talk ☕
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong>Monthly Dev Discussion!</strong></span> <br>
+<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
+    Load Comments
+  </a>
+  </span></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: #ffc107!important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/getting-started-with-awake" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            Getting Started
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong>Author:</strong> Daniel Kelly |
+  </span> <span class="date-wrapper"><strong>Published on:</strong> August 3, 2019
+  </span></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: #dc3545!important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="/built-for-speed" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            Built For Speed
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong>Author:</strong> Daniel Kelly |
+  </span> <span class="date-wrapper"><strong>Published on:</strong> August 1, 2019
+  </span></h4></a></div></div></div></div></div></div> <!----> <div data-v-3d9d9137="" class="intersection-observer"></div></div></div></div>
+
+
+
+
+
+<!-New Code-->
+
+
+
+
+
+
+
+
+
         </div>
       </div>
     </div>
