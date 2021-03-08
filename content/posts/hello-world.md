@@ -5,7 +5,7 @@ category:
   - About Awake
 author: Nick Huber
 date: 2019-08-03T19:59:59.000Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/hubercodes-banner.png
 ---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
