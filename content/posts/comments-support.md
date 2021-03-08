@@ -49,7 +49,7 @@ Take it from here:
 
 and put it here:
 
-```
+```apex
 // config/_siteConfig.js
 export default {
 ...
