@@ -19,14 +19,19 @@
           v-if="$slots.default"
           class="under-subtitle animated fadeInDown slower"
         >
-         <slot />
+         <!--<slot />-->
 
 
 
+computed: {
+    currentRouteName() {
+        return this.$route.name;
+    }
+}
 
 
-
-
+<div>{{ currentRouteName }}</div>
+<div>{{ $route.name }}</div>
 
 <div data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
     margin-left: 16.66667%;
