@@ -44,7 +44,7 @@
             Dev Talk ☕
           </h3>
           <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion! Join our zoom call.</strong></span> <br>
+          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     Join one
   </a>
@@ -59,8 +59,8 @@
               is-home
               has-text-weight-light
               ">
-            Current Stuff
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some stuff I've created! Play my game!</strong></span> <br>
+            Current Projects
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects of mine!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     View
   </a>
@@ -73,7 +73,7 @@
               has-text-weight-light
               ">
             Got Work?
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer who specializes in Salesforce!</strong></span> <br>
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     Hire me
   </a>
