@@ -75,5 +75,6 @@ export default {
 
 .navbar-menu a {
   display: block;
+  color: black;
 }
 </style>
