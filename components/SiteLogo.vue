@@ -2,11 +2,10 @@
   <div class="logo-wrapper">
     <div
       :class="{
-        'logo-inner': true,
-        blink: blinking
+        'logo-inner': true
       }"
     >
-      <img
+     <!-- <img
         v-for="x in frames"
         :key="x"
         :src="`/logo-frames/logo-f${x - 1}.svg`"
@@ -15,7 +14,8 @@
         v-for="x in frames"
         :key="`${x}-r`"
         :src="`/logo-frames/logo-f${frames - x}.svg`"
-      />
+      />-->
+<img src="https://huber.codes/huberlogo.png" style="" alt="profile-pic">
     </div>
   </div>
 </template>
