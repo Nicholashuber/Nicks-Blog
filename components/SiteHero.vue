@@ -27,8 +27,8 @@
 <!--<div>{{ $route.name }}</div>-->
  
 <div v-if="$route.name === 'index'" data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
-    margin-left: 16.66667%;
-    width: 66.66667%;
+    margin-left2: 16.66667%;
+    width2: 66.66667%;
 "><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
     border-color: #007bff !important;
     border: 2px solid rgba(0,0,0,.125);
