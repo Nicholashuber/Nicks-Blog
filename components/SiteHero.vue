@@ -60,7 +60,7 @@
               has-text-weight-light
               ">
             Current Stuff
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!</strong></span> <br>
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some stuff I've created! Play my game!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     View
   </a>
