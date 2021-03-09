@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Nicks Blog',
+  siteName: 'Lavasocks',
   tagline: 'Nick Huber - Developer and Consultant',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
@@ -18,10 +18,10 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    {
-      name: 'About',
-      link: '/about'
-    },
+    //{
+    //  name: 'About',
+    //  link: '/about'
+    //},
     {
       name: 'Contact',
       link: '/contact'
@@ -31,13 +31,8 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/nicholashuber',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Portfolio',
+      link: 'https://huber.codes/',
       target: '_blank'
     }
   ],
