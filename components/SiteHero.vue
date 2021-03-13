@@ -149,6 +149,10 @@ export default {
   padding: 0;
   margin: 0;
 }
+.card-content {
+    background-color: rgba(0,0,0,0);
+    padding: 1rem !important;
+}
 .subtitle {
   font-size: 1rem;
   margin-bottom: 0 !important;
