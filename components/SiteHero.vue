@@ -153,6 +153,9 @@ export default {
   font-size: 1rem;
   margin-bottom: 0 !important;
 }
+.subtitle {
+    opacity: 0.8 !important;
+}
 .under-subtitle {
   display: inline-block;
   font-size: 0.8rem;
