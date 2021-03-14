@@ -254,7 +254,7 @@ background-color2: #2C2D2F;
     padding: 1rem;
 }
 .page-main-section {
-    background-color: #2c2d2f;
+    background-color2: #2c2d2f;
     background-color: #17181b;
 }
 .media, .title {
