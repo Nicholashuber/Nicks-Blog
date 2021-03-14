@@ -16,7 +16,7 @@
                 Projects
               </p>
         <!-- All Posts -->
-        <posts-grid :category="portfolio" />
+        <posts-grid :category="Portfolio" :number="3"/>
       </template>
       <template v-slot:sidebar>
         Nothing here
