@@ -257,4 +257,7 @@ background-color: #2C2D2F;
 .media, .title {
     color: white !important;
 }
+.loading-posts {
+display:none;
+}
 </style>
