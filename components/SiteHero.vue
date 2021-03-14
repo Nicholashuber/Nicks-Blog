@@ -255,6 +255,7 @@ background-color2: #2C2D2F;
 }
 .page-main-section {
     background-color: #2c2d2f;
+    background-color: #17181b;
 }
 .media, .title {
     color: white !important;
