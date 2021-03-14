@@ -243,4 +243,13 @@ export default {
   .button.is-primary:hover {
     background-color: #3395FF;
 }
+.hero+.page-main-section {
+background-color: #2C2D2F;
+}
+.card-content {
+    background-color: #17181B;
+    color: white;
+    padding: 1rem;
+}
+
 </style>
