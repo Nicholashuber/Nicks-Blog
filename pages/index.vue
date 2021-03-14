@@ -12,6 +12,9 @@
 
       <main-section theme="one-column">
       <template v-slot:default>
+      <p class="title">
+                Portfolio
+              </p>
         <!-- All Posts -->
         <posts-grid :category="portfolio" />
       </template>
@@ -21,8 +24,9 @@
     </main-section>
 
     <main-section theme="one-column">
-    <h3>Blog</h3>
+    
       <template v-slot:default>
+      <h3>Blog</h3>
         <!-- All Posts -->
         <posts-grid />
       </template>
