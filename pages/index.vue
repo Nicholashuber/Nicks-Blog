@@ -13,7 +13,7 @@
       <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <posts-grid :category="third-party-integrations" />
+        <posts-grid :category="portfolio" />
       </template>
       <template v-slot:sidebar>
         Nothing here
