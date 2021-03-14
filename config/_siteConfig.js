@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Lavasocks',
-  tagline: 'Nick Huber - Developer and Consultant',
+  tagline: 'Nick Huber - Developer and Consultant ☁️',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -18,10 +18,10 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    //{
-    //  name: 'About',
-    //  link: '/about'
-    //},
+    {
+      name: 'About',
+     link: '/about'
+    },
     {
       name: 'Contact',
       link: '/contact'
