@@ -44,7 +44,7 @@
             Dev Talk ☕
           </h3>
           <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.</strong></span> <br>
+          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     Join one
   </a>
@@ -60,7 +60,7 @@
               has-text-weight-light
               ">
             Current Projects
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects of mine!</strong></span> <br>
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
     View
   </a>
