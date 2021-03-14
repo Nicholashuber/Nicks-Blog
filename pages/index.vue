@@ -26,7 +26,9 @@
     <main-section theme="one-column">
     
       <template v-slot:default>
-      <h3>Blog</h3>
+            <p class="title">
+                Blog
+              </p>
         <!-- All Posts -->
         <posts-grid />
       </template>
