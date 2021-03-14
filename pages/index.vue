@@ -9,6 +9,16 @@
         Subscribe To Newsletter
       </button>
     </site-hero>
+        <main-section theme="one-column">
+      <template v-slot:default>
+        <!-- All Posts -->
+        <posts-grid :category="[0]" />
+      </template>
+      <template v-slot:sidebar>
+        Nothing here
+      </template>
+    </main-section>
+
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
