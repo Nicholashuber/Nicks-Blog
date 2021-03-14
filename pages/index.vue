@@ -30,7 +30,7 @@
                 Blog
               </p>
         <!-- All Posts -->
-        <posts-grid />
+        <posts-grid :category="['Blog']"/>
       </template>
       <template v-slot:sidebar>
         Nothing here
