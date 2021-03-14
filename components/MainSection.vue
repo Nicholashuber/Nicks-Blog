@@ -67,7 +67,10 @@ export default {
     border-right: 1px solid #eee;
   }
 }
-body{
+body2{
     color: #fff!important;
+}
+.hero+.page-main-section {
+     background-color: #fff!important;
 }
 </style>

@@ -66,7 +66,7 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Subscribe to my Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
