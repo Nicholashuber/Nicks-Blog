@@ -1,24 +1,24 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="About Me"
+      subtitle="Lavasocks"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Hello there,</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              my name is Nick Huber.
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            
+I’ve been a Salesforce Developer and consultant for over 4 years so far.
+I’m a Certified Salesforce Developer, Administrator and Service Cloud Consultant. Thanks to many online resources detailing advanced Salesforce topics my career flourished.
+Every time I successfully research and solve a complex issue or create something new for companies I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing examples, tricks, and solutions for other developers to also reach new heights aswell.
           </p>
 
           <h3>Another Fake Heading</h3>
@@ -28,8 +28,8 @@
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
           </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
+          <!--<quote-card />-->
+         <!--<h3>Still More Fake Content</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
@@ -39,10 +39,10 @@
             <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
             quisquam saepe? Alias architecto blanditiis consequatur consequuntur
             dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
+          </p>-->
         </div>
 
-        <div class="tile is-ancestor">
+        <!--<div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -82,7 +82,7 @@
               </figure>
             </article>
           </div>
-        </div>
+        </div>-->
       </template>
 
       <template v-slot:sidebar>
