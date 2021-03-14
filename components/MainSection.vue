@@ -67,4 +67,7 @@ export default {
     border-right: 1px solid #eee;
   }
 }
+body{
+    color: #fff!important;
+}
 </style>
