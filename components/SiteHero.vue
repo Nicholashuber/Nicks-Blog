@@ -249,7 +249,8 @@ background-color2: #2C2D2F;
 }
 .card-content {
     background-color2: #17181B;
-        background-color: #2C2D2F;
+        background-color3: #2C2D2F;
+        background-color: #101012;
     color: white;
     padding: 1rem;
 }
