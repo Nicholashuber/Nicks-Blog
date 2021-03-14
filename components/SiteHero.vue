@@ -237,4 +237,10 @@ export default {
     text-shadow: 1px 1px 2px white;
   }
 }
+  .button.is-primary {
+    background-color: #3395FF;
+}
+  .button.is-primary:hover {
+    background-color: #3395FF;
+}
 </style>
