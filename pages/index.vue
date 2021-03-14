@@ -23,7 +23,7 @@
       </template>
     </main-section>
 
-    <main-section theme="one-column" style="    margin-top: 0px !important;">
+    <main-section theme="one-column" style="    margin-top: 0px !important;    padding-top: 0px;">
     
       <template v-slot:default>
             <p class="title">
