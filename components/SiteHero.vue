@@ -8,7 +8,7 @@
     />
     <div class="hero-body">
       <div class="container">
-        <h1 class="title animated fadeInUp">
+        <h1 class="title animated fadeInUp" style="font-weight: 900;">
           {{ title }}
         </h1>
         <h2 class="subtitle animated fadeInUp slower">
@@ -37,7 +37,7 @@
 <div data-v-28f55286="" class="media">
 <div data-v-28f55286="" class="media-content">
 
-<h3 style="color: black !important;" data-v-28f55286="" class="title
+<h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -55,7 +55,7 @@
     border-color: #ffc107 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -68,7 +68,7 @@
     border-color: #dc3545 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
