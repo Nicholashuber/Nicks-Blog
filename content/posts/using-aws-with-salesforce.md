@@ -2,7 +2,7 @@
 title: Using AWS with Salesforce
 subtitle: Using AWS with Salesforce
 category:
-  - About Awake
+  - Blog
 author: Nick Huber
 date: 2021-03-14T08:20:18.816Z
 featureImage: /uploads/sfaws.png
