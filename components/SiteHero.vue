@@ -244,10 +244,12 @@ export default {
     background-color: #3395FF;
 }
 .hero+.page-main-section {
-background-color: #2C2D2F;
+background-color2: #2C2D2F;
+    background-color: #17181b;
 }
 .card-content {
-    background-color: #17181B;
+    background-color2: #17181B;
+        background-color: #2C2D2F;
     color: white;
     padding: 1rem;
 }

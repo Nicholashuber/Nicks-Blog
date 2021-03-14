@@ -71,6 +71,7 @@ body2{
     color: #fff!important;
 }
 .hero+.page-main-section {
-     background-color: #fff!important;
+     background-color2: #fff!important;
+         background-color: #17181b;
 }
 </style>
