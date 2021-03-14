@@ -9,7 +9,8 @@
         Subscribe To Newsletter
       </button>
     </site-hero>
-        <main-section theme="one-column">
+
+      <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
         <posts-grid :category="third-party-integrations" />
@@ -20,6 +21,7 @@
     </main-section>
 
     <main-section theme="one-column">
+    <h3>Blog</h3>
       <template v-slot:default>
         <!-- All Posts -->
         <posts-grid />
