@@ -251,5 +251,7 @@ background-color: #2C2D2F;
     color: white;
     padding: 1rem;
 }
-
+.page-main-section {
+    background-color: #2c2d2f;
+}
 </style>

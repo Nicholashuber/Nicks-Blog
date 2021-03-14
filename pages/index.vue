@@ -12,7 +12,7 @@
 
       <main-section theme="one-column">
       <template v-slot:default>
-      <p class="title">
+      <p class="title" style="color: white;">
                 Projects
               </p>
         <!-- All Posts -->
@@ -26,7 +26,7 @@
     <main-section theme="one-column" style="    margin-top: 0px !important;    padding-top: 0px;">
     
       <template v-slot:default>
-            <p class="title">
+            <p class="title" style="color: white;">
                 Blog
               </p>
         <!-- All Posts -->
@@ -67,5 +67,8 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
+}
+strong{
+  color: white;
 }
 </style>
