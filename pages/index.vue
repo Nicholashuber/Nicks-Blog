@@ -12,7 +12,7 @@
         <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <posts-grid :category="[third-party-integrations]" />
+        <posts-grid :category="third-party-integrations" />
       </template>
       <template v-slot:sidebar>
         Nothing here
