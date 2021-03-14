@@ -1,5 +1,5 @@
 ---
-title: How to call an API with a Lightning Component
+title: Calling API with a Lightning Component
 subtitle: How to call an API with a Lightning Component
 category:
   - About Awake
