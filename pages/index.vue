@@ -13,7 +13,7 @@
       <main-section theme="one-column">
       <template v-slot:default>
       <p class="title">
-                Portfolio
+                Projects
               </p>
         <!-- All Posts -->
         <posts-grid :category="portfolio" />
