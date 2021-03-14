@@ -72,10 +72,10 @@
               is-home
               has-text-weight-light
               ">
-            Got Work?
+            About Me
           </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff;background-color: #007bff;border-color: #007bff;">
-    Hire me
+    Learn more
   </a>
   </span></h4></div></div></div></div></div></div> <!----> <div data-v-3d9d9137="" class="intersection-observer"></div></div></div></div>
 
