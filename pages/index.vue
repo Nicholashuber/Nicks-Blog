@@ -23,7 +23,7 @@
       </template>
     </main-section>
 
-    <main-section theme="one-column">
+    <section theme="one-column">
     
       <template v-slot:default>
             <p class="title">
@@ -35,7 +35,7 @@
       <template v-slot:sidebar>
         Nothing here
       </template>
-    </main-section>
+    </section>
     <news-letter-form-modal />
   </div>
 </template>
