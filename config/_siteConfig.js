@@ -27,13 +27,17 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
-      link: '/categories'
+      name: 'Blog',
+      link: '/categories/blog'
     },
     {
       name: 'Portfolio',
       link: 'https://huber.codes/',
       target: '_blank'
+    },
+    {
+      name: 'Categories',
+      link: '/categories'
     }
   ],
   hero: {
