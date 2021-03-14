@@ -260,4 +260,10 @@ background-color: #2C2D2F;
 .loading-posts {
 display:none;
 }
+body {
+    color: white !important;
+}
+h1,h2,h3,h4,h5,h6{
+color: white !important;
+}
 </style>
