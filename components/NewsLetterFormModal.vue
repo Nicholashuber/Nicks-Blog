@@ -16,7 +16,7 @@ export default {
   computed: {
     title() {
       return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
+        this.$siteConfig.newsletter.heading || 'Subscribe to my Newsletter'
       )
     }
   }
@@ -28,5 +28,12 @@ export default {
   .field.has-addons {
     justify-content: center;
   }
+  .button.is-primary {
+    background-color: #3395FF;
+}
+  .button.is-primary:hover {
+    background-color: #3395FF;
+}
+  
 }
 </style>
