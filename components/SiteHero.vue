@@ -254,4 +254,7 @@ background-color: #2C2D2F;
 .page-main-section {
     background-color: #2c2d2f;
 }
+.media .title {
+    color: white !important;
+}
 </style>
