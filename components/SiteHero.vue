@@ -289,4 +289,10 @@ footer {
     margin: 5px;
     max-height: initial;
 }
+.calendly-badge-widget {
+    position: unset !important;
+    right: 20px;
+    bottom: 15px;
+    z-index: 9998;
+}
 </style>
