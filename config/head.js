@@ -37,6 +37,12 @@ export default {
   ],
   script: [
     {
+      hid: 'gtm-script1',
+      src: 'https://assets.calendly.com/assets/external/widget.js',
+      defer: true
+    },
+    {
+      hid: 'gtm-script2',
       innerHTML: `
       Calendly.initBadgeWidget({ url: 'https://calendly.com/nhuber?hide_landing_page_details=1', text: 'Schedule time with me', color: '#ffffff', textColor: '#040404', branding: false });
       `,
