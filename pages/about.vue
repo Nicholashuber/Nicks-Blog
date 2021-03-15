@@ -8,10 +8,10 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Hello there,</h3>
+          <h3>Hello there, my name is Nick Huber.</h3>
           <p>
             <strong>
-              my name is Nick Huber.
+              
             </strong>
           </p>
           <p>
@@ -21,13 +21,13 @@ I’m a Certified Salesforce Developer, Administrator and Service Cloud Consulta
 Every time I successfully research and solve a complex issue or create something new for companies I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing examples, tricks, and solutions for other developers to also reach new heights aswell.
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <!--<h3>Another Fake Heading</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
-          </p>
+          </p>-->
           <!--<quote-card />-->
          <!--<h3>Still More Fake Content</h3>
           <p>
