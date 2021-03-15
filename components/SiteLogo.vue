@@ -1,8 +1,25 @@
 <template>
-<div class="logo-wrapper" data-v-6c25db18=""><div class="logo-inner"><img src="https://huber.codes/huberlogo.png" alt="profile-pic"></div>
-<div class="calendly-badge-widget" style="
-    margin-left: 54px;
-"><div class="calendly-badge-content calendly-white" style="background: rgb(255, 255, 255);color: rgb(4, 4, 4) !important;display: table-cell;/* float: left; */width: auto;height: 45px;padding: 0px 24px;border-radius: 25px;box-shadow: rgb(0 0 0 / 25%) 0 2px 5px;font-family: sans-serif;text-align: center;vertical-align: middle;font-weight: bold;font-size: 14px;color: #fff;cursor: pointer;">Schedule time with me</div></div></div>
+  <div class="logo-wrapper">
+    <div
+      :class="{
+        'logo-inner': true
+      }"
+    >
+     <!-- <img
+        v-for="x in frames"
+        :key="x"
+        :src="`/logo-frames/logo-f${x - 1}.svg`"
+      />
+      <img
+        v-for="x in frames"
+        :key="`${x}-r`"
+        :src="`/logo-frames/logo-f${frames - x}.svg`"
+      />-->
+<img src="https://huber.codes/huberlogo.png" style="" alt="profile-pic">
+    </div>
+    <div class="calendly-badge-widget" style="margin-left: 54px;">
+    <div class="calendly-badge-content calendly-white" style="background: rgb(255, 255, 255);color: rgb(4, 4, 4) !important;display: table-cell;/* float: left; */width: auto;height: 45px;padding: 0px 24px;border-radius: 25px;box-shadow: rgb(0 0 0 / 25%) 0 2px 5px;font-family: sans-serif;text-align: center;vertical-align: middle;font-weight: bold;font-size: 14px;color: #fff;cursor: pointer;">Schedule time with me</div></div>
+  </div>
 </template>
 <script>
 export default {
