@@ -28,7 +28,7 @@ export default {
   ],
   __dangerouslyDisableSanitizers: ['script'],
   script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
-  div: [
+  script: [
     {
       innerHTML: `
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
