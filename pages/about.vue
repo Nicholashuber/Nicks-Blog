@@ -27,6 +27,30 @@ Every time I successfully research and solve a complex issue or create something
  I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
   examples, tricks, and solutions for other developers to also reach new heights aswell.
           </p>
+          <p>
+<img class=" wp-image-254 alignleft" src="https://huber.dev/img/sf-plat.png" alt="" width="272" height="156" style="
+    width: 176px;
+    padding: 10px;
+">
+
+
+<img class=" wp-image-254 alignleft" src="https://huber.dev/img/deploymentlifecycle.jpg" alt="" width="272" height="156" style="
+    width: 176px;
+    padding: 10px;
+">
+
+
+<img class="size-full wp-image-256 alignleft" src="https://huber.dev/img/sf-admin.png" alt="" width="276" height="157" style="
+    width: 176px;
+    padding: 10px;
+"><img class="wp-image-255 alignleft" src="https://huber.dev/img/sf-builder.jpg" alt="" width="273" height="156" style="
+    width: 176px;
+    padding: 10px;
+"><img class=" wp-image-254 alignleft" src="https://huber.dev/img/sf-service.jpg" alt="" width="272" height="156" style="
+    width: 176px;
+    padding: 10px;
+">
+</p>
 
           <!--<h3>Another Fake Heading</h3>
           <p>
