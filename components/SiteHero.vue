@@ -283,4 +283,10 @@ footer {
     position: absolute;
     height: 500px;
 }
+.logo-wrapper .logo-inner img {
+    display: block;
+    height: 40px;
+    margin: 5px;
+    max-height: initial;
+}
 </style>
