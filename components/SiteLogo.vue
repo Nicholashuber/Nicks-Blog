@@ -45,6 +45,10 @@ export default {
 <script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/nhuber?hide_landing_page_details=1', text: 'Schedule time with me', color: '#ffffff', textColor: '#040404', branding: false });</script>
 <!-- Calendly badge widget end -->
 <style lang="scss">
+.logo-wrapper .logo-inner {
+    position: absolute;
+    height: 500px;
+}
 @keyframes logoBlink {
   100% {
     transform: translateY(-360px);
