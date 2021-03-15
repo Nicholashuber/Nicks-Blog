@@ -10,7 +10,7 @@ export default {
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  link: [{ rel: 'stylesheet', href: '~/assets/scss/calwidget.css' }],
+  link: [{ rel: 'stylesheet', href: '/assets/scss/calwidget.css' }],
   script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
   script: [
     {
