@@ -17,6 +17,9 @@
       />-->
 <img src="https://huber.codes/huberlogo.png" style="" alt="profile-pic">
     </div>
+    <div class="calendly-badge-widget" style="
+    margin-left: 54px;
+"><div class="calendly-badge-content calendly-white" style="background: rgb(255, 255, 255);color: rgb(4, 4, 4) !important;display: table-cell;/* float: left; */width: auto;height: 45px;padding: 0px 24px;border-radius: 25px;box-shadow: rgb(0 0 0 / 25%) 0 2px 5px;font-family: sans-serif;text-align: center;vertical-align: middle;font-weight: bold;font-size: 14px;color: #fff;cursor: pointer;">Schedule time with me</div></div>
   </div>
 </template>
 <script>
@@ -37,6 +40,11 @@ export default {
   }
 }
 </script>
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/nhuber?hide_landing_page_details=1', text: 'Schedule time with me', color: '#ffffff', textColor: '#040404', branding: false });</script>
+<!-- Calendly badge widget end -->
 <style lang="scss">
 @keyframes logoBlink {
   100% {
@@ -47,7 +55,8 @@ export default {
   position: relative;
   height: 50px;
   overflow: hidden;
-  width: 200px;
+  width2: 200px;
+  width: 284px;
   .logo-inner {
     position: absolute;
     height: 500px;
