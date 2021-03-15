@@ -273,4 +273,14 @@ color: white !important;
 footer {
   color: black !important;
 }
+.logo-wrapper {
+    position: relative;
+    height: 50px;
+    overflow: hidden;
+    width: 284px;
+}
+.logo-wrapper .logo-inner {
+    position: absolute;
+    height: 500px;
+}
 </style>
