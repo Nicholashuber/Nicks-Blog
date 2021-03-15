@@ -10,11 +10,29 @@ export default {
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  link: [{ rel: 'stylesheet', href: 'https://assets.calendly.com/assets/external/widget.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
       defer: true,
       id: 'netlify-identity-widget-script'
+    }
+  ],
+  script: [
+    {
+      src: 'https://assets.calendly.com/assets/external/widget.js',
+      defer: true,
+      id: 'netlify-identity-widget-script'
+    }
+  ],
+  __dangerouslyDisableSanitizers: ['script'],
+  script: [
+    {
+      innerHTML: `
+      Calendly.initBadgeWidget({ url: 'https://calendly.com/nhuber?hide_landing_page_details=1', text: 'Schedule time with me', color: '#ffffff', textColor: '#040404', branding: false });
+      `,
+      type: 'text/javascript',
+        charset: 'utf-8'
     }
   ]
 }
