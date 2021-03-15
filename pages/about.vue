@@ -27,6 +27,9 @@ Every time I successfully research and solve a complex issue or create something
  I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
   examples, tricks, and solutions for other developers to also reach new heights aswell.
           </p>
+          <div class="signature mt-20">
+                                    <img src="https://huber.dev/img/signature-white.png" alt="">
+                                </div>
           <p>
 <img class=" wp-image-254 alignleft" src="https://huber.dev/img/sf-plat.png" alt="" width="272" height="156" style="
     width: 176px;
