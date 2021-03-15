@@ -16,9 +16,16 @@
           </p>
           <p>
             
-I’ve been a Salesforce Developer and consultant for over 4 years so far.
-I’m a Certified Salesforce Developer, Administrator and Service Cloud Consultant. Thanks to many online resources detailing advanced Salesforce topics my career flourished.
-Every time I successfully research and solve a complex issue or create something new for companies I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing examples, tricks, and solutions for other developers to also reach new heights aswell.
+I am a 5x Certified Salesforce Developer who utilizes the Salesforce platform's Full-Stack of technologies as well as Node.js, Twilio, Web API's, Stripe, Angular, Heroku, SQL, Wordpress, Chrome Extensions, Andriod, HTML5, and PHP to develop outstanding applications which improved day to day business for over 100+ clients now.
+
+Having understood many modern design patterns and Full-Stack technologies I am skilled in
+ spearheading any task while incorporating user and business requirements into cost-effective,
+  secure and user-friendly solutions.
+<br>
+  Thanks to many online resources detailing advanced Salesforce topics my career flourished.
+Every time I successfully research and solve a complex issue or create something new for companies
+ I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
+  examples, tricks, and solutions for other developers to also reach new heights aswell.
           </p>
 
           <!--<h3>Another Fake Heading</h3>
