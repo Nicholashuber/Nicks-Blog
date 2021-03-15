@@ -18,25 +18,23 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/profilepic2.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/profilepic2.jpg').srcSet
                   "
                 />
               </figure>
               <br />
               <div class="content">
-                <p>
+                <!--<p>
                   <strong>
                     Edit this page in<code>/pages/contact.vue</code>to fit your
                     needs.
                   </strong>
-                </p>
+                </p>-->
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Lets Talk!<br>
+                  Drop me a message and lets find out how I can help!
                 </p>
               </div>
             </article>
