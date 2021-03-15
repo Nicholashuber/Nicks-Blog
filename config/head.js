@@ -11,6 +11,7 @@ export default {
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   link: [{ rel: 'stylesheet', href: 'https://assets.calendly.com/assets/external/widget.css' }],
+  script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
@@ -22,7 +23,7 @@ export default {
     {
       src: 'https://assets.calendly.com/assets/external/widget.js',
       defer: true,
-      id: 'netlify-identity-widget-script'
+      id: 'calendly-widgetks'
     }
   ],
   __dangerouslyDisableSanitizers: ['script'],
