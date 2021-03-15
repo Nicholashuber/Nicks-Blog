@@ -28,11 +28,11 @@ export default {
   ],
   __dangerouslyDisableSanitizers: ['script'],
   script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
-  script: [
+  div: [
     {
-      src: 'https://assets.calendly.com/assets/external/widget.js',
-      defer: true,
-      id: 'calendly-widgetks'
+      innerHTML: `
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      `
     }
   ],
   script: [
