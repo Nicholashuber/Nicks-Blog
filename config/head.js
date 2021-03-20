@@ -11,6 +11,7 @@ export default {
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   link: [{ rel: 'stylesheet', href: '/_nuxt/assets/scss/calwidget.css' }],
+  link: [{ as: 'script',rel: 'script', href: 'https://assets.calendly.com/assets/external/widget.js' }],
   script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
   script: [
     {
@@ -38,8 +39,11 @@ export default {
   script: [
     {
       hid: 'gtm-script1',
-      src: 'https://assets.calendly.com/assets/external/widget.js',
-      defer: true
+      innerHTML: `
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      `,
+      type: 'text/javascript',
+        charset: 'utf-8'
     },
     {
       hid: 'gtm-script2',
