@@ -10,7 +10,7 @@ export default {
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  //link: [{ rel: 'stylesheet', href: '/_nuxt/assets/scss/calwidget.css' }],
+  link: [{ rel: 'stylesheet', href: 'https://assets.calendly.com/assets/external/widget.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
