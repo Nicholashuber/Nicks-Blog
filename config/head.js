@@ -23,7 +23,7 @@ export default {
     {
       hid: 'gtm-script1',
       innerHTML: `
-      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      </script><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript">
       `,
     },
     {
