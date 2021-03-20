@@ -122,6 +122,10 @@ Every time I successfully research and solve a complex issue or create something
       <template v-slot:sidebar>
       <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"/>
       <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"/>
+<img src="http://lavasocks.com/img/sf-ranger.png" style="
+    width: 100%;
+    text-align: center;
+">
         <!--<h3 class="subtitle is-4">
           Latest Posts
         </h3>
