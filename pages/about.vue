@@ -1,10 +1,10 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
-    <site-hero
+    <!--<site-hero
       title="About Me"
       subtitle="Lavasocks"
       image="/uploads/about-hero.jpg"
-    ></site-hero>
+    ></site-hero>-->
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
@@ -120,10 +120,12 @@ Every time I successfully research and solve a complex issue or create something
       </template>
 
       <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
+      <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png"/>
+      <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png"/>
+        <!--<h3 class="subtitle is-4">
           Latest Posts
         </h3>
-        <posts-grid :per-row="1" :number="2" />
+        <posts-grid :per-row="1" :number="2" />-->
       </template>
     </main-section>
   </div>
