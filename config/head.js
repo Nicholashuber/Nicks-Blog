@@ -10,7 +10,7 @@ export default {
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  link: [{ rel: 'stylesheet', href: '/_nuxt/assets/scss/calwidget.css' }],
+  //link: [{ rel: 'stylesheet', href: '/_nuxt/assets/scss/calwidget.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
@@ -19,7 +19,7 @@ export default {
     }
   ],
   __dangerouslyDisableSanitizers: ['script'],
-  script: [
+  /*script: [
     {
       hid: 'gtm-script1',
       innerHTML: `
@@ -36,5 +36,5 @@ export default {
       type: 'text/javascript',
         charset: 'utf-8'
     }
-  ]
+  ]*/
 }
