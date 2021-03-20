@@ -295,4 +295,7 @@ footer {
     bottom: 15px;
     z-index: 9998;
 }
+body{
+line-height: 0px !important;
+}
 </style>
