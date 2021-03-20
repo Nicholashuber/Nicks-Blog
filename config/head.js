@@ -11,8 +11,6 @@ export default {
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   link: [{ rel: 'stylesheet', href: '/_nuxt/assets/scss/calwidget.css' }],
-  link: [{ as: 'script',rel: 'script', href: 'https://assets.calendly.com/assets/external/widget.js' }],
-  script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
@@ -20,22 +18,7 @@ export default {
       id: 'netlify-identity-widget-script'
     }
   ],
-  script: [
-    {
-      src: 'https://assets.calendly.com/assets/external/widget.js',
-      defer: true,
-      id: 'calendly-widgetks'
-    }
-  ],
   __dangerouslyDisableSanitizers: ['script'],
-  script: [{ id: 'calendly-widgetjs', src: 'https://assets.calendly.com/assets/external/widget.js' }],
-  script: [
-    {
-      innerHTML: `
-      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-      `
-    }
-  ],
   script: [
     {
       hid: 'gtm-script1',
