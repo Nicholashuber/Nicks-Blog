@@ -29,7 +29,12 @@ export default {
     {
       hid: 'gtm-script2',
       innerHTML: `
-      Calendly.initBadgeWidget({ url: 'https://calendly.com/nhuber?hide_landing_page_details=1', text: 'Schedule time with me', color: '#ffffff', textColor: '#040404', branding: false });
+      Calendly.initInlineWidget({
+        url: 'https://calendly.com/nhuber?hide_landing_page_details=1',
+        parentElement: document.getElementById('nickscalendly'),
+        prefill: {},
+        utm: {}
+       });
       `,
       type: 'text/javascript',
         charset: 'utf-8'
