@@ -18,7 +18,7 @@ export default {
       id: 'netlify-identity-widget-script'
     }
   ],
-  __dangerouslyDisableSanitizers: ['script'],
+  __dangerouslyDisableSanitizers: ['script']
   /*script: [
     {
       hid: 'gtm-script1',
