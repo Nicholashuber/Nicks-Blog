@@ -295,7 +295,10 @@ footer {
     bottom: 15px;
     z-index: 9998;
 }
-body{
+body2{
 line-height: 0px !important;
+}
+.hero {
+    margin-top: 46px;
 }
 </style>
