@@ -18,8 +18,8 @@ export default {
       id: 'netlify-identity-widget-script'
     }
   ],
-  __dangerouslyDisableSanitizers: ['script'],
-  script: [
+  __dangerouslyDisableSanitizers: ['script']
+  /*script: [
     {
       hid: 'gtm-script1',
       innerHTML: `
@@ -39,5 +39,5 @@ export default {
       type: 'text/javascript',
         charset: 'utf-8'
     }
-  ]
+  ]*/
 }
