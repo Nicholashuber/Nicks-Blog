@@ -5,8 +5,9 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand">
-      <nuxt-link class="navbar-item" to="/">
+      
         <site-logo v-if="$siteConfig.logo === 'logo-component'" />
+         <nuxt-link class="navbar-item" to="/">
         <img
           v-else
           :src="$siteConfig.logo"
