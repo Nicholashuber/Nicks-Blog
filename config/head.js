@@ -18,15 +18,13 @@ export default {
       id: 'netlify-identity-widget-script'
     }
   ],
-  __dangerouslyDisableSanitizers: ['script']
-  /*script: [
+  __dangerouslyDisableSanitizers: ['script'],
+  script: [
     {
       hid: 'gtm-script1',
       innerHTML: `
-      </script><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
       `,
-      type: 'text/javascript',
-        charset: 'utf-8'
     },
     {
       hid: 'gtm-script2',
@@ -36,5 +34,5 @@ export default {
       type: 'text/javascript',
         charset: 'utf-8'
     }
-  ]*/
+  ]
 }
