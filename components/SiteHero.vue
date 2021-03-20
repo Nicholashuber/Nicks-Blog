@@ -299,6 +299,6 @@ body2{
 line-height: 0px !important;
 }
 .hero {
-    margin-top: 46px;
+    margin-top: 44px;
 }
 </style>
