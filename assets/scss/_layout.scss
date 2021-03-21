@@ -56,4 +56,10 @@ dt {
 html {
   background-color: #17181b !important;
 }
+.panel-block {
+  color: white;
+}
+.panel-block.is-active {
+  color: white;
+}
 /*! purgecss end ignore */
