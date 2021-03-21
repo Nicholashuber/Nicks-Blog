@@ -17,6 +17,9 @@
               </p>
         <!-- All Posts -->
         <posts-grid :category="['Portfolio']"/>
+        <a style="background-color: transparent !important;color: white !important;" class="button is-fullwidth is-outlined is-large">
+    Show More
+  </a>
       </template>
       <template v-slot:sidebar>
         Nothing here
