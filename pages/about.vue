@@ -122,7 +122,7 @@ Every time I successfully research and solve a complex issue or create something
       <template v-slot:sidebar>
       <div class="about-info">
                                     <h3 class="mb-20" style="    font-size: 22px;
-    font-weight: 700;">Personal Information</h3>
+    font-weight: 700;">Personal Information</h3><br>
                                     <ul>
                                         <li><span class="title2" style="font-size: 16px;
     font-weight: 700;
