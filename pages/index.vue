@@ -14,12 +14,20 @@
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
+<button class="button is-primary" style="
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: white;
+    border-width: 1px;
+    background-color: transparent;
+    margin-left: 15px;
+">Show More</button>
               </p>
         <!-- All Posts -->
         <posts-grid :category="['Portfolio']"/>
-        <a style="background-color: transparent !important;color: white !important;" class="button is-fullwidth is-outlined is-large">
+       <!-- <a href="/categories/portfolio" style="background-color: transparent !important;color: white !important;" class="button is-fullwidth is-outlined is-large">
     Show More
-  </a>
+  </a>-->
       </template>
       <template v-slot:sidebar>
         Nothing here
