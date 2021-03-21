@@ -120,12 +120,48 @@ Every time I successfully research and solve a complex issue or create something
       </template>
 
       <template v-slot:sidebar>
+      <div class="about-info">
+                                    <h3 class="mb-20" style="    font-size: 22px;
+    font-weight: 700;">Personal Information</h3>
+                                    <ul>
+                                        <li><span class="title2">Name</span><span class="value">Nick Huber</span></li>
+                                        <li><span class="title2">Age</span><span class="value">26 Years</span></li>
+                                        
+                                        
+                                        <li><span class="title2">Email</span><span class="value">Nick@Huber.codes</span></li>
+                                        
+                                        <li><span class="title2">Freelance / Consulting</span><span class="value">Available</span></li>
+                                    </ul>
+
+<style>
+.header-main .image-container .header-name:before {
+    background-color: black;
+}
+.page-heading h2 {
+    color: #00A1E1;
+}
+.title2{
+   font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .5px;
+    border-bottom: 2px solid #ffffff;
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+    padding-bottom: 1px;
+    color: #ffffff;
+}
+</style>
+
+                                </div>
       <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"/>
       <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"/>
+      <center>
 <img src="https://i.imgur.com/Sk0xRxn.png" style="
-    width: 100%;
+        max-width: 200px;
     text-align: center;
 ">
+</center>
         <!--<h3 class="subtitle is-4">
           Latest Posts
         </h3>
