@@ -301,4 +301,11 @@ line-height: 0px !important;
 .hero {
     margin-top: 44px;
 }
+a {
+    color: black !important;
+}
+.input:active, .input:focus, .is-active.input, .is-active.textarea, .textarea:active, .textarea:focus {
+    border-color: black !important;
+    box-shadow: 0 0 0 0.125em rgb(0 0 9 / 13%) !important;
+}
 </style>
