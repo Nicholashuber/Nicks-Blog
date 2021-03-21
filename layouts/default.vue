@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import 'animate.css/animate.min.css'
+
 export default {
   transition: 'slide-fade',
   head() {
