@@ -10,7 +10,7 @@
     <site-footer></site-footer>
   </div>
 </template>
-
+<!--import 'animate.css/animate.min.css'-->
 <script>
 export default {
   transition: 'slide-fade',
