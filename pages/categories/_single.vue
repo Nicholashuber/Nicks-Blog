@@ -5,12 +5,13 @@
       :subtitle="$store.state.content"
       :image="$store.state.image"
     />
-    <main-section theme="sidebar-right">
+    <div v-if="$route.path === '/categories/portfolio/'">
+    <main-section theme="one-column">
       <template v-slot:default>
         <!-- Posts in Category -->
         <posts-grid :category="[$store.state.name]" :per-row="3" />
       </template>
-      <div v-if="$route.path === '/categories/portfolio/'">
+      
       <template v-slot:sidebar>
         <h3 class="subtitle">
           All Categories <div>{{ $route.name }} {{$route.path}}</div>
@@ -29,8 +30,37 @@
           </nuxt-link>
         </div>
       </template>
-      </div>
     </main-section>
+    </div>
+
+    <div v-if="$route.path !== '/categories/portfolio/'">
+    <main-section theme="sidebar-right">
+      <template v-slot:default>
+        <!-- Posts in Category -->
+        <posts-grid :category="[$store.state.name]" :per-row="3" />
+      </template>
+      
+      <template v-slot:sidebar>
+        <h3 class="subtitle">
+          All Categories <div>{{ $route.name }} {{$route.path}}</div>
+        </h3>
+        <div class="panel">
+          <nuxt-link
+            v-for="cat in allCats"
+            :key="cat.slug"
+            :to="`/categories/${cat.slug}`"
+            :class="{
+              'panel-block': true,
+              'is-active': cat.slug === $route.params.single
+            }"
+          >
+            {{ cat.name }}
+          </nuxt-link>
+        </div>
+      </template>
+    </main-section>
+    </div>
+
   </div>
 </template>
 <script>
