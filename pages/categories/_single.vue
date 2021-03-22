@@ -5,7 +5,7 @@
       :subtitle="$store.state.content"
       :image="$store.state.image"
     />
-    <div v-if="$route.path === '/categories/portfolio/'">
+    <div v-if="$route.path === '/categories/portfolio'">
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- Posts in Category -->
@@ -33,7 +33,7 @@
     </main-section>
     </div>
 
-    <div v-if="$route.path !== '/categories/portfolio/'">
+    <div v-if="$route.path != '/categories/portfolio'">
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <!-- Posts in Category -->
