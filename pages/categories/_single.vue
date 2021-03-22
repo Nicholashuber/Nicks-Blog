@@ -12,7 +12,7 @@
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">
-          All Categories <div>{{ $route.name }} {{$slug}} </div>
+          All Categories <div>{{ $route.name }} {{$route.query.page}} </div>
         </h3>
         <div class="panel">
           <nuxt-link
