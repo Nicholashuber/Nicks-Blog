@@ -5,12 +5,6 @@
       :subtitle="$store.state.content"
       :image="$store.state.image"
     />
-   <style>
-   .card{
-    background-color: #101012 !important;
-   }
-    
-   </style>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <!-- Posts in Category <div>{{ $route.name }} {{$route.path}}</div>-->
