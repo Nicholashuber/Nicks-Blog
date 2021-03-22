@@ -14,11 +14,7 @@
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
-                <component
-            :is="nuxt-link"
-            :to="/categories/portfolio"
-            :href="/categories/portfolio"
-          >
+
           <component
             :is="$route.startsWith('http') ? 'a' : 'nuxt-link'"
             :href="/categories/portfolio"
