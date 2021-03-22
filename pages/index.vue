@@ -15,7 +15,8 @@
       <p class="title" style="color: white;">
                 Projects
                 <component
-            :is="'nuxt-link'"
+            :is="nuxt-link"
+            :to="/categories/portfolio"
             :href="/categories/portfolio"
           >
 <button class="button is-primary" style="
