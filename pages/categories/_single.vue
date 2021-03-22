@@ -32,8 +32,7 @@
       </template>
     </main-section>
     </div>
-
-    <div v-if="$route.path != '/categories/portfolio'">
+    <div v-else>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <!-- Posts in Category -->

@@ -14,22 +14,14 @@
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
-
-          <component
-            :is="$route.startsWith('http') ? 'a' : 'nuxt-link'"
-            :href="/categories/portfolio"
-            :to="/categories/portfolio"
-            :target="/categories/portfolio ? /categories/portfolio : '_self'"
-          >
-<button class="button is-primary" style="
+<a href="/categories/portfolio"><button class="button is-primary" style="
     border: 1px solid transparent;
     border-radius: 4px;
     border-color: white;
     border-width: 1px;
     background-color: transparent;
     margin-left: 15px;
-">Show More</button>
-</component>
+">Show More</button></a>
               </p>
         <!-- All Posts -->
         <posts-grid :category="['Portfolio']"/>
