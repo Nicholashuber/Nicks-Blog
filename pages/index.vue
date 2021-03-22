@@ -19,6 +19,12 @@
             :to="/categories/portfolio"
             :href="/categories/portfolio"
           >
+          <component
+            :is="$route.startsWith('http') ? 'a' : 'nuxt-link'"
+            :href="/categories/portfolio"
+            :to="/categories/portfolio"
+            :target="/categories/portfolio ? /categories/portfolio : '_self'"
+          >
 <button class="button is-primary" style="
     border: 1px solid transparent;
     border-radius: 4px;
