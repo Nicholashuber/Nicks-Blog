@@ -14,7 +14,7 @@
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
-<a href="/categories/portfolio"><button class="button is-primary" style="
+<a href="/categories/portfolio?"><button class="button is-primary" style="
     border: 1px solid transparent;
     border-radius: 4px;
     border-color: white;
