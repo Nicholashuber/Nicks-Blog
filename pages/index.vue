@@ -1,6 +1,6 @@
 <template>
 
-<div id="about-page" class="page-wrapper about-page content-page"><main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content"><h3 style="
+<div id="about-page2" class="page-wrapper about-page content-page"><main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content"><h3 style="
     font-size: 36px;
     font-weight: 700;
 ">Hello there, my name is Nick Huber.</h3> <p><strong></strong></p> <p style="
