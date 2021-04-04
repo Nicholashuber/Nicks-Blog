@@ -1,7 +1,31 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
 
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+
+
+  <main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content"><h3 style="
+    font-size: 36px;
+    font-weight: 700;
+">Hello there, my name is Nick Huber.</h3> <p><strong></strong></p> <p style="
+    font-size: 17px;
+">
+            
+I am a 5x Certified Salesforce Developer who utilizes the Salesforce platform's Full-Stack of technologies as well as Node.js, Twilio, Web API's, Stripe, Angular, Heroku, SQL, Wordpress, Chrome Extensions, Andriod, HTML5, and PHP to develop outstanding applications which improved day to day business for over 100+ clients now.
+
+Having understood many modern design patterns and Full-Stack technologies I am skilled in
+ spearheading any task while incorporating user and business requirements into cost-effective,
+  secure and user-friendly solutions.
+<br>
+  Thanks to many online resources detailing advanced Salesforce topics my career flourished.
+Every time I successfully research and solve a complex issue or create something new for companies
+ I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
+  examples, tricks, and solutions for other developers to also reach new heights aswell.
+          </p> <div class="signature mt-20"><img src="https://huber.dev/img/signature-white.png" alt=""></div> <p><img src="https://huber.dev/img/sf-plat.png" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="https://huber.dev/img/deploymentlifecycle.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="https://huber.dev/img/sf-admin.png" alt="" width="276" height="157" class="size-full wp-image-256 alignleft" style="width: 176px; padding: 10px;"><img src="https://huber.dev/img/sf-builder.jpg" alt="" width="273" height="156" class="wp-image-255 alignleft" style="width: 176px; padding: 10px;"><img src="https://huber.dev/img/sf-service.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"></p></div></div> <aside class="column right-sidebar is-one-quarter"><div class="about-info">
+<img src="https://huber.codes/profilepic-opt.jpg" style="width: 100%;" alt="profile-pic">
+<h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> <br><br> <center></center></aside></div></div></main>
+
+
+    <!--<site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
@@ -9,7 +33,7 @@
       >
         Subscribe To Newsletter
       </button>
-    </site-hero>
+    </site-hero>-->
 
       <main-section theme="one-column" style="    padding: 0rem 1.5rem;
     margin-top: 0px;">
