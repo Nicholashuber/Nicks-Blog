@@ -2,7 +2,7 @@
 
   <div id="home-page" class="page-wrapper home-page">
 
-    <!--<site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
@@ -10,7 +10,7 @@
       >
         Subscribe To Newsletter
       </button>
-    </site-hero>-->
+    </site-hero>
 
       <main-section theme="one-column" style="    padding: 0rem 1.5rem;
     margin-top: 0px;">
