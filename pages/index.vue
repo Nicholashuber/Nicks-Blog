@@ -24,7 +24,8 @@ Every time I successfully research and solve a complex issue or create something
            <img src="https://huber.dev/img/sf-service.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"></p></div></div> <aside class="column right-sidebar is-one-quarter">
            <div class="about-info">
            <img src="https://huber.codes/profilepic-opt.jpg" style="width: 100%" alt="profile-pic">
-           <h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> <br><br> <center><img src="https://i.imgur.com/Sk0xRxn.png" style="max-width: 200px; text-align: center;">
+           <h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> <br><br> 
+           <center><img src="https://i.imgur.com/Sk0xRxn.png" style="max-width: 200px; text-align: center;">
           </center>
           </aside>
           </div>
@@ -41,7 +42,8 @@ Every time I successfully research and solve a complex issue or create something
       </button>
     </site-hero>-->
 
-      <main-section theme="one-column">
+      <main-section theme="one-column" style="    padding: 0rem 1.5rem;
+    margin-top: 0px;">
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
