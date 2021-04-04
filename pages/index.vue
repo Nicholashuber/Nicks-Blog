@@ -38,7 +38,7 @@ Every time I successfully research and solve a complex issue or create something
     </site-hero>-->
 
       <main-section theme="one-column" style="    padding: 0rem 1.5rem;
-    margin-top: 0px;">
+    margin-top2: 30px;">
       <template v-slot:default>
       <p class="title" style="color: white;">
                 Projects
