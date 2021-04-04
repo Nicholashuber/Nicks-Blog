@@ -3,12 +3,12 @@
 
 
 
-  <main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content"><h3 style="
-    font-size: 36px;
-    font-weight: 700;
-">Hello there, my name is Nick Huber.</h3> <p><strong></strong></p> <p style="
-    font-size: 17px;
-">
+  <main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content">
+  <h3 style="font-size: 36px !important;font-weight: 700 !important;">
+  Hello there, my name is Nick Huber.
+  </h3> <p><strong></strong></p> 
+  
+  <p style="font-size: 17px !important;">
             
 I am a 5x Certified Salesforce Developer who utilizes the Salesforce platform's Full-Stack of technologies as well as Node.js, Twilio, Web API's, Stripe, Angular, Heroku, SQL, Wordpress, Chrome Extensions, Andriod, HTML5, and PHP to develop outstanding applications which improved day to day business for over 100+ clients now.
 
