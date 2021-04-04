@@ -73,7 +73,7 @@
               has-text-weight-light
               ">
             About Me
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!</strong></span> <br>
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
     Learn more
   </a>
