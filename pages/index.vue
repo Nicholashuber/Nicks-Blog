@@ -3,7 +3,7 @@
 
 
 
-  <main class="section page-main-section"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content">
+  <main class="section page-main-section" style="padding-bottom: 0px !important;"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content">
   <h3 style="font-size: 36px !important;font-weight: 700 !important;">
   Hello there, my name is Nick Huber.
   </h3> <p><strong></strong></p> 
