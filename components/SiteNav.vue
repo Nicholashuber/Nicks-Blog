@@ -87,5 +87,10 @@ export default {
     color: white;
     font-size: 18px;
 }
+@media screen and (max-width: 1023px){
+.navbar-menu {
+    background-color: transparent;
+}
+}
 
 </style>
