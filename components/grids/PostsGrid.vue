@@ -11,6 +11,7 @@
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
         :author="item.category"
+        :subtitle="item.subtitle"
         :date="item.date"
       />
 

@@ -13,8 +13,8 @@
       v-if="author && $siteConfig.posts.displayAuthor"
       class="author-wrapper" style="color: white;"
     >
-    <div v-if="author != [ "Portfolio "]">test1</div>
-      <strong style="color: white;">Author:</strong> {{ author }} |
+    <div v-if="author != [ 'Portfolio ']">test1</div>
+      <strong style="color: white;">Author:</strong> {{ author }} {{ subtitle }} |
     </span>
     <span v-if="date" class="date-wrapper" style="color: white;">
       <strong style="color: white;">Published on:</strong> {{ datePretty }}
@@ -45,6 +45,10 @@ export default {
       default: ''
     },
     author: {
+      type: String,
+      default: ''
+    },
+    subtitle: {
       type: String,
       default: ''
     }
