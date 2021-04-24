@@ -5,25 +5,25 @@
     :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
-    <div v-if="item.category === '['Portfolio']'"
-      <post-card
+    
+      <post-card v-if="item.category === '['Portfolio']'"
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
         :author="item.category"
         :date="item.date"
       />
-    </div>
+    
 
-     <div v-if="item.category !== '['Portfolio']'"
-      <post-card
+     
+      <post-card  v-if="item.category !== '['Portfolio']'"
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
         :author="item.author"
         :date="item.date"
       />
-    </div>
+    
 
     </template>
   </resource-grid>
