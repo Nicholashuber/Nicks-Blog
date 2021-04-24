@@ -92,5 +92,8 @@ export default {
     background-color: transparent;
 }
 }
+.card {
+    background-color: #101012;
+}
 
 </style>
