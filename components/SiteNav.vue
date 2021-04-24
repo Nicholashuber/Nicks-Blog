@@ -4,6 +4,72 @@
     role="navigation"
     aria-label="main navigation"
   >
+
+  <div class="header-mobile">
+
+
+<div class="header-mobile">
+<ul class="nav navbar-nav navbar-right mobile-bar">
+                <li>
+                    <a href="#about" style="color:white;">
+                        <span class="menu-icon fa fa-home"></span>
+                        Home
+                    </a>
+                </li>
+               <!-- <li>
+                    <a href="#about" style="color:white;">
+                        <span class="menu-icon lnr lnr-user"></span>
+                        <span class="hidden-xs">About</span>
+                        <span class="visible-xs">About</span>
+                    </a>
+                </li>-->
+                 <li class="visible-xs" style="color:white;">
+                    <a href="#resume" style="color:white;">
+                        <span class="menu-icon lnr lnr-license"></span>
+                        Resume
+                    </a>
+                </li>
+                <li class="hidden-xs">
+                    <a href="#resume" style="color:white;">
+                        <span class="menu-icon lnr lnr-license"></span>
+                        Resume
+                    </a>
+                </li>
+                <li>
+                    <a href="#portfolio" style="color:white;">
+                        <span class="menu-icon lnr lnr-briefcase"></span>
+                        Portfolio
+                    </a>
+                </li>
+                <li class="hidden-xs contactbad" style="color:white;">
+                    <a href="#contact">
+                        <span class="menu-icon lnr lnr-envelope"></span>
+                        Contact
+                    </a>
+                </li>
+                <li>
+                    <a href="#contact" style="color:white;">
+                        <span class="menu-icon lnr lnr-envelope"></span>                     
+                        <span class="hidden-xs">Contact</span>
+                        <span class="visible-xs">Contact</span>
+                    </a>
+                </li>
+
+
+            </ul>
+                    </div>
+
+
+
+
+
+
+                        <!--<a class="header-toggle"><i class="fas fa-bars"></i></a>
+                        <h2>Nick Huber</h2>-->
+                    </div>
+
+
+                    <!-- original nav -->
     <div class="navbar-brand">
       
         <site-logo v-if="$siteConfig.logo === 'logo-component'" />
@@ -44,6 +110,7 @@
         </li>
       </ul>
     </div>
+     <!-- original nav -->
   </nav>
 </template>
 <script>
@@ -100,5 +167,65 @@ export default {
 <style>
 .card {
     background-color: #101012 !important;
+}
+
+@media screen and (max-width: 900px){
+header .header-mobile {
+    display: block;
+    height: 64px;
+    -webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+}
+header .header-mobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #17181B;
+    z-index: 10;
+    display: none;
+    -webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+@media screen and (max-width: 900px){
+header .navbar-nav.navbar-right {
+    float: none;
+}
+}
+.navbar-nav.mobile-bar {
+    list-style: none;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+    margin: 0px 0px;
+}
+.navbar-nav.mobile-bar > li {
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    text-align: center;
+}
+@media screen and (max-width: 900px){
+.navbar-nav.mobile-bar > li {
+    font-size: 12px;
+}
+}
+@media screen and (max-width: 900px){
+.navbar-nav>li>a {
+    padding-top: 14px;
+}
 }
 </style>
