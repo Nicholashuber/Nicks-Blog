@@ -14,7 +14,7 @@
       class="author-wrapper" style="color: white;"
     >
     <div v-if="author.indexOf('Portfolio') !== -1">{{ subtitle }}</div>
-      <strong style="color: white;">Author:</strong> {{ author }} |
+      <!--<strong style="color: white;">Author:</strong> {{ author }} |-->
     </span>
     <div v-if="author.indexOf('Portfolio') === -1">
     <span v-if="date" class="date-wrapper" style="color: white;">
