@@ -10,12 +10,12 @@
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
-        :author="item.subtitle"
+        :author="item.category"
         :date="item.date"
       />
       </div>
 
-     <div v-if="item.category != 'portfolio'"
+     <div v-if="item.category !== 'portfolio'"
       <post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
