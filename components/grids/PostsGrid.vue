@@ -15,7 +15,7 @@
       />
       </div>
 
-     <div v-if="item.category !== 'portfolio'"
+     <div v-if="item.category != 'portfolio'"
       <post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
