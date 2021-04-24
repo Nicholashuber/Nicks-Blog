@@ -6,7 +6,7 @@
   >
     <template v-slot:default="{ item }">
     
-    <div v-if="$item.category !== '['Portfolio']'"> 
+    <div v-if="item.category !== '['Portfolio']'"> 
       <post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
