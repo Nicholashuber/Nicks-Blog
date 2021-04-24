@@ -75,12 +75,15 @@ export default {
 
 .navbar-menu a {
   display: block;
-  color: black;
+  color: white;
 }
 .navbar.has-shadow {
     box-shadow: none !important;
 }
 .navbar {
     background-color: #17181b;
+}
+.navbar-item {
+    color: white;
 }
 </style>
