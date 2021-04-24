@@ -85,5 +85,7 @@ export default {
 }
 .navbar-item {
     color: white;
+    font-size: 18px;
 }
+
 </style>
