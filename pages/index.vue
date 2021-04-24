@@ -4,10 +4,10 @@
 
 
   <main class="section page-main-section" style="padding-bottom: 0px !important;"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content">
-  <h4 style="font-size: 36px !important; font-weight: 700 !important;">I'm Nick Huber AKA Lavasocks
+  <h4 style="font-size: 36px !important; font-weight: 700 !important;">I'm Nick Huber, Developer &amp; Consultant
   </h4>
   
-  <h3 style="">Developer &amp; Consultant</h3>
+  <!--<h3 style="">Developer &amp; Consultant</h3>-->
    
   
   <p style="font-size: 17px !important;">
@@ -17,7 +17,7 @@ I am a 5x Certified Salesforce Developer who utilizes the Salesforce platform's 
 Having understood many modern design patterns and Full-Stack technologies I am skilled in
  spearheading any task while incorporating user and business requirements into cost-effective,
   secure and user-friendly solutions.
-<br>
+<br><br>
   Thanks to many online resources detailing advanced Salesforce topics my career flourished.
 Every time I successfully research and solve a complex issue or create something new for companies
  I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
