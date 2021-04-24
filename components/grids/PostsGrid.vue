@@ -5,6 +5,7 @@
     :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
+    <div v-if="item.category === 'portfolio'"
       <post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
@@ -12,6 +13,18 @@
         :author="item.subtitle"
         :date="item.date"
       />
+      </div>
+
+     <div v-if="item.category !== 'portfolio'"
+      <post-card
+        :title="item.title"
+        :link="item.slug ? `/${item.slug}` : ''"
+        :image="item.featureImage"
+        :author="item.author"
+        :date="item.date"
+      />
+      </div>
+
     </template>
   </resource-grid>
 </template>
