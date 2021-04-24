@@ -15,7 +15,7 @@
         :key="`${x}-r`"
         :src="`/logo-frames/logo-f${frames - x}.svg`"
       />-->
-<img src="https://huber.codes/huberlogo.png" style="" alt="profile-pic">
+<img src="~/assets/uploads/huberlogo.png" style="" alt="profile-pic">
     </div>
     <a href="https://calendly.com/nhuber?hide_landing_page_details=1" target="_blank">
     <div id="nickscalendly" class="calendly-badge-widget" style="margin-left: 54px;margin-top: 10px;">
