@@ -97,3 +97,8 @@ export default {
 }
 
 </style>
+<style>
+.card {
+    background-color: #101012 !important;
+}
+</style>
