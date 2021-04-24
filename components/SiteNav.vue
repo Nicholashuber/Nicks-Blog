@@ -77,4 +77,10 @@ export default {
   display: block;
   color: black;
 }
+.navbar.has-shadow {
+    box-shadow: none !important;
+}
+.navbar {
+    background-color: #17181b;
+}
 </style>
