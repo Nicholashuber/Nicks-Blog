@@ -13,7 +13,18 @@
       v-if="author && $siteConfig.posts.displayAuthor"
       class="author-wrapper" style="color: white;"
     >
-      <strong style="color: white;">Author:</strong> {{ author }} {{ subtitle }} |
+
+<div v-if="author === '['Portfolio']'"> 
+test1
+</div>
+<div v-if="author !== 'Portfolio'"> 
+test2
+</div>
+<div v-if="author != 'Portfolio'"> 
+test3
+</div>
+
+      <strong style="color: white;">Author:</strong> {{ author }} |
     </span>
     <span v-if="date" class="date-wrapper" style="color: white;">
       <strong style="color: white;">Published on:</strong> {{ datePretty }}
