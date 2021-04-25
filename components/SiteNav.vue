@@ -242,7 +242,10 @@ header .navbar-nav.navbar-right {
    display:none !important;
  }
  .page-main-section {
-    margin-top: 26px;
+    margin-top: 33px !important;
+}
+ .page-main-section {
+    margin-top2: 26px;
 }
 .mobileonly{
   display: block !important;
