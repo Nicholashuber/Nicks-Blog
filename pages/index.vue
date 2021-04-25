@@ -50,54 +50,6 @@ Every time I successfully research and solve a complex issue or create something
 
 
 
-<div data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
-    margin-left2: 16.66667%;
-    width2: 66.66667%;
-"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: white !important;
-    border: 2px solid rgba(0,0,0,.125);
-    border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content">
-<div data-v-28f55286="" class="media">
-<div data-v-28f55286="" class="media-content">
-
-<h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
-              is-home
-              has-text-weight-light
-              ">
-            Backend Development <i class="lnr lnr-laptop"></i>
-          </h3>
-          <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
-<br>
-  </h4>
-  
-  </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: white !important;
-    border: 2px solid rgba(0,0,0,.125);
-    border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
-              is-home
-              has-text-weight-light
-              ">
-            Frontend Development
-          </h3> <h4 style="color: white !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
-<br></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: white !important;
-    border: 2px solid rgba(0,0,0,.125);
-    border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
-              is-home
-              has-text-weight-light
-              ">
-            Integrations
-          </h3> <h4 style="color: white !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
-<br></h4></div></div></div></div></div></div>
-
-
-
-
-<br>
 
 
 
