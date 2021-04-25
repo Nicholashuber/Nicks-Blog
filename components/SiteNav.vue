@@ -235,7 +235,7 @@ header .navbar-nav.navbar-right {
  }
 }
 @media (max-width: 576px) { 
-  .content{
+  #home-page .content{
    display:none !important;
  }
  .page-main-section {
