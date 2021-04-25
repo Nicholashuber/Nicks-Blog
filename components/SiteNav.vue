@@ -232,4 +232,9 @@ header .navbar-nav.navbar-right {
     display: block;
     font-size: 1.8em;
 }
+@media (min-width: 576px) { 
+  .navbar-brand{
+   display:none !important;
+ }
+}
 </style>
