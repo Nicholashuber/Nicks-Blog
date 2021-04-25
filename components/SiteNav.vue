@@ -245,4 +245,7 @@ header .navbar-nav.navbar-right {
     margin-top: 26px;
 }
 }
+  .content{
+   display:none !important;
+ }
 </style>
