@@ -60,7 +60,7 @@ Every time I successfully research and solve a complex issue or create something
 <div data-v-28f55286="" class="media">
 <div data-v-28f55286="" class="media-content">
 
-<h3 style="padding-bottom: 1px;
+<h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="padding-bottom: 1px;
     border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
