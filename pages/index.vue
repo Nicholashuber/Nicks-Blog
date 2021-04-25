@@ -80,11 +80,12 @@ Every time I successfully research and solve a complex issue or create something
   </span>
   </h4>
   
-  </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+  </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+  <div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
     border-color: #ffc107 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="padding-bottom: 1px;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="padding-bottom: 1px;
     border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
@@ -102,7 +103,7 @@ Every time I successfully research and solve a complex issue or create something
     border-color: #dc3545 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
