@@ -1,4 +1,6 @@
 <template>
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
   <nav
     class="navbar has-shadow is-fixed-top"
     role="navigation"
@@ -19,7 +21,6 @@
                <!-- <li>
                     <a href="#about" style="color:white;">
                         <span class="menu-icon lnr lnr-user"></span>
-                        <span class="hidden-xs">About</span>
                         <span class="visible-xs">About</span>
                     </a>
                 </li>-->
@@ -29,28 +30,17 @@
                         Resume
                     </a>
                 </li>
-                <li class="hidden-xs">
-                    <a href="#resume" style="color:white;">
-                        <span class="menu-icon lnr lnr-license"></span>
-                        Resume
-                    </a>
-                </li>
+
                 <li>
                     <a href="#portfolio" style="color:white;">
                         <span class="menu-icon lnr lnr-briefcase"></span>
                         Portfolio
                     </a>
                 </li>
-                <li class="hidden-xs contactbad" style="color:white;">
-                    <a href="#contact">
-                        <span class="menu-icon lnr lnr-envelope"></span>
-                        Contact
-                    </a>
-                </li>
+
                 <li>
                     <a href="#contact" style="color:white;">
-                        <span class="menu-icon lnr lnr-envelope"></span>                     
-                        <span class="hidden-xs">Contact</span>
+                        <span class="menu-icon lnr lnr-envelope"></span>
                         <span class="visible-xs">Contact</span>
                     </a>
                 </li>
@@ -64,8 +54,7 @@
 
 
 
-                        <!--<a class="header-toggle"><i class="fas fa-bars"></i></a>
-                        <h2>Nick Huber</h2>-->
+                        
                     </div>
 
 
@@ -227,5 +216,20 @@ header .navbar-nav.navbar-right {
 .navbar-nav>li>a {
     padding-top: 14px;
 }
+}
+@media screen and (max-width: 900px)
+.navbar-nav>li>a {
+    padding-top: 14px;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
 }
 </style>
