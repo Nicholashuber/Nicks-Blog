@@ -11,7 +11,7 @@ export default {
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   link: [{ rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' }],
-  //link: [{ rel: 'stylesheet', href: 'https://assets.calendly.com/assets/external/widget.css' }],
+  link: [{ rel: 'stylesheet', href: 'https://cdn.linearicons.com/free/1.0.0/icon-font.min.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',

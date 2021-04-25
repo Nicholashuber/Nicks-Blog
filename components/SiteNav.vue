@@ -1,5 +1,5 @@
 <template>
-<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
 
   <nav
     class="navbar has-shadow is-fixed-top"
@@ -9,9 +9,7 @@
 
   <div class="header-mobile">
 
-
-<div class="header-mobile">
-<ul class="nav navbar-nav navbar-right mobile-bar">
+            <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
                     <a href="#about" style="color:white;">
                         <span class="menu-icon fa fa-home"></span>
@@ -46,16 +44,9 @@
                 </li>
 
 
-            </ul>
-                    </div>
+             </ul>
+  </div>
 
-
-
-
-
-
-                        
-                    </div>
 
 
                     <!-- original nav -->
