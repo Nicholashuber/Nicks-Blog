@@ -12,7 +12,7 @@
             <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
                     <a href="#about" style="color:white;">
-                        <span class="menu-icon fa fa-home"></span>
+                        <span class="menu-icon lnr lnr-home"></span>
                         Home
                     </a>
                 </li>

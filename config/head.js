@@ -12,7 +12,6 @@ export default {
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   link: [{ rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' }],
   link: [{ rel: 'stylesheet', href: 'https://cdn.linearicons.com/free/1.0.0/icon-font.min.css' }],
-  link: [{ rel: 'stylesheet', href: 'https://trusting-bassi-1284fb.netlify.app/mainnew2.css' }],
   script: [
     {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
