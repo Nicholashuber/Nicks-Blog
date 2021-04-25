@@ -60,7 +60,7 @@ Every time I successfully research and solve a complex issue or create something
 <div data-v-28f55286="" class="media">
 <div data-v-28f55286="" class="media-content">
 
-<h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+<h3 style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -83,7 +83,7 @@ Every time I successfully research and solve a complex issue or create something
     border-color: #ffc107 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -100,7 +100,7 @@ Every time I successfully research and solve a complex issue or create something
     border-color: #dc3545 !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
