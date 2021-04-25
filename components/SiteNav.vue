@@ -7,7 +7,7 @@
     aria-label="main navigation"
   >
 
-  <div class="header-mobile" style="display:none;">
+  <div class="header-mobile" style="display:none;background-color: #101012;">
 
             <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
@@ -25,7 +25,7 @@
                 </li>
 
                  <li class="visible-xs" style="color:white;">
-                    <a href="/about" style="color:white;">
+                    <a href="/categories/blog" style="color:white;">
                         <!--<span class="menu-icon lnr lnr-license"></span>-->
                         <span class="menu-icon lnr lnr-bubble"></span>
                         Blog
