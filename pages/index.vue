@@ -52,7 +52,8 @@ Every time I successfully research and solve a complex issue or create something
 <div v-if="$route.name === 'index'" data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
     margin-left2: 16.66667%;
     width2: 66.66667%;
-"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
+"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+<div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #01A0E0','border-color': '#01A0E0 !important','border-radius': '.25rem' }" style="
     border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
@@ -81,7 +82,7 @@ Every time I successfully research and solve a complex issue or create something
   </h4>
   
   </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
-  <div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
+  <div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #01A0E0','border-color': '#01A0E0 !important','border-radius': '.25rem' }" style="
     border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
@@ -99,7 +100,7 @@ Every time I successfully research and solve a complex issue or create something
           </strong></span> <br>
 
 <br><span class="date-wrapper">
-  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
+  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #01A0E0','border-color': '#01A0E0 !important','border-radius': '.25rem' }" style="
     border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
