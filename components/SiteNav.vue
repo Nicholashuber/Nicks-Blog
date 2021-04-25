@@ -244,6 +244,9 @@ header .navbar-nav.navbar-right {
  .page-main-section {
     margin-top: 26px;
 }
+.mobileonly{
+  display: block !important;
+}
 .header-mobile{
   display: block !important;
 }
