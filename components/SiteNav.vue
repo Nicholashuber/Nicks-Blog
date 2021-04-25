@@ -16,18 +16,6 @@
                         Home
                     </a>
                 </li>
-               <!-- <li>
-                    <a href="/about" style="color:white;">
-                        <span class="menu-icon lnr lnr-user"></span>
-                        <span class="visible-xs">About</span>
-                    </a>
-                </li>-->
-                 <li class="visible-xs" style="color:white;">
-                    <a href="/about" style="color:white;">
-                        <span class="menu-icon lnr lnr-license"></span>
-                        Skills
-                    </a>
-                </li>
 
                 <li>
                     <a href="/categories/portfolio" style="color:white;">
@@ -35,6 +23,15 @@
                         Projects
                     </a>
                 </li>
+
+                 <li class="visible-xs" style="color:white;">
+                    <a href="/about" style="color:white;">
+                        <!--<span class="menu-icon lnr lnr-license"></span>-->
+                        <span class="menu-icon lnr lnr-bubble"></span>
+                        Blog
+                    </a>
+                </li>
+
 
                 <li>
                     <a href="/contact" style="color:white;">
