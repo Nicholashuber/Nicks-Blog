@@ -52,7 +52,7 @@ Every time I successfully research and solve a complex issue or create something
 <div v-if="$route.name === 'index'" data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
     margin-left2: 16.66667%;
     width2: 66.66667%;
-"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
     border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
@@ -61,7 +61,7 @@ Every time I successfully research and solve a complex issue or create something
 <div data-v-28f55286="" class="media-content">
 
 <h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="padding-bottom: 1px;
-    border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
+    border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 20px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -82,11 +82,11 @@ Every time I successfully research and solve a complex issue or create something
   
   </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
   <div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
-    border-color: #ffc107 !important;
+    border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 "> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="padding-bottom: 1px;
-    border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
+    border-bottom: 2px solid #fff;color: white !important;font-weight: 700 !important;    font-size: 20px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -99,11 +99,11 @@ Every time I successfully research and solve a complex issue or create something
           </strong></span> <br>
 
 <br><span class="date-wrapper">
-  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
-    border-color: #dc3545 !important;
+  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" v-bind:style="{ 'border': '2px solid #fff','border-color': '#ffc107 !important','border-radius': '.25rem' }" style="
+    border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
-"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="color: white !important;font-weight: 700 !important;    font-size: 17px;" data-v-28f55286="" class="title
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 v-bind:style="{ 'border-bottom': '2px solid #fff' }" style="color: white !important;font-weight: 700 !important;    font-size: 20px;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
