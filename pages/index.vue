@@ -72,7 +72,7 @@ Every time I successfully research and solve a complex issue or create something
     font-size: 17px!important;color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
-          Apex, Java, PHP, NodeJS, Python, Express, Serverless, MySQL, ElasticSearch, Regex, SSL, Redis, AWS, Linux.
+          Apex, Nodejs, Java, PHP, Python, Kotlin, Serverless Architecture, MySQL, Shell Script, Regex, SSL, Redis, DynamoDB, AWS, Linux.
 
           </strong>
           </span> 
@@ -98,7 +98,7 @@ Every time I successfully research and solve a complex issue or create something
     font-size: 17px!important;color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
-           SASS, Less, JS/ES6, Grunt, Gulp, Angular, HTML/HTML5, CSS/CSS3, PhantomJS, Bootstrap, jQuery.
+           Angular, React, Vue, SLDS, SASS, Less, JS/ES5/ES7, Grunt, Gulp, HTML5, CSS/CSS3, Figma, Electron, Bootstrap, jQuery.
           </strong></span> <br>
 
 <br><span class="date-wrapper">
@@ -116,7 +116,7 @@ Every time I successfully research and solve a complex issue or create something
     font-size: 17px!important;color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
-          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, OAuth, SSL, Lambda, API Gateways, S3, IAM, EC2.
+          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, ANT, Heroku, SSL, Lambda, API Gateways, S3, IAM, EC2.
           </strong>
           </span> 
           <br>
