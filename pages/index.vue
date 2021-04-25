@@ -60,14 +60,21 @@ Every time I successfully research and solve a complex issue or create something
 <div data-v-28f55286="" class="media">
 <div data-v-28f55286="" class="media-content">
 
-<h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+<h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
             Backend Development
           </h3>
           <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper"><strong style="color: white !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
+          <span class="author-wrapper">
+          <strong style="color: white !important;">
+          Apex, Java, PHP, NodeJS, Python, Express, Serverless, MySQL, ElasticSearch, Regex, SSL, Redis, AWS, Linux.
+
+          </strong>
+          </span> 
+          <br>
+
 <br><span class="date-wrapper">
   </span>
   </h4>
@@ -81,7 +88,13 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             Frontend Development
-          </h3> <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: white !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
+          </h3> 
+          <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper">
+          <strong style="color: white !important;">
+           SASS, Less, JS/ES6, Grunt, Gulp, Angular, HTML/HTML5, CSS/CSS3, PhantomJS, Bootstrap, jQuery.
+          </strong></span> <br>
+
 <br><span class="date-wrapper">
   </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
     border-color: #dc3545 !important;
@@ -92,13 +105,22 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             Integrations
-          </h3> <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: white !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
-<br><span class="date-wrapper">
+          </h3> 
+          <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper">
+          <strong style="color: white !important;">
+          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, OAuth, SSL, Lambda, API Gateways, S3, IAM, EC2.
+          </strong>
+          </span> 
+          <br>
+<br>
+
+<span class="date-wrapper">
   </span></h4></div></div></div></div></div></div></div></div></div>
 
 
 
-
+<br>
           <!-- New Skills Section End -->
           
           
