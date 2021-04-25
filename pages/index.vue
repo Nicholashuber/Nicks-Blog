@@ -155,7 +155,7 @@ Every time I successfully research and solve a complex issue or create something
               " style="padding-bottom: 1px; border-bottom: 2px solid rgb(255, 255, 255); font-size: 20px; color: white !important; font-weight: 700 !important;">
             <i class="lnr lnr-cog"></i> Backend Development
           </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
-          Apex, Java, PHP, NodeJS, Python, Express, Serverless, MySQL, ElasticSearch, Regex, SSL, Redis, AWS, Linux.
+          Apex, Nodejs, Java, PHP, Python, Kotlin, Serverless Architecture, MySQL, Shell Script, Regex, SSL, Redis, DynamoDB, AWS, Linux.
 
           </strong></span> <br> <br><span class="date-wrapper"></span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width:33.3333%"><div data-v-28f55286="" data-v-3d9d9137="" class="card" style="border: 2px solid rgb(1, 160, 224); border-radius: 0.25rem;"><div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 data-v-28f55286="" class="title
               is-home
@@ -163,14 +163,14 @@ Every time I successfully research and solve a complex issue or create something
               " style="padding-bottom: 1px; border-bottom: 2px solid rgb(255, 255, 255); font-size: 20px; color: white !important; font-weight: 700 !important;">
             <i class="lnr lnr-laptop-phone"></i> Frontend Development
           </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
-           SASS, Less, JS/ES6, Grunt, Gulp, Angular, HTML/HTML5, CSS/CSS3, PhantomJS, Bootstrap, jQuery.
+           Angular, React, Vue, SLDS, SASS, Less, JS/ES5/ES7, Grunt, Gulp, HTML5, CSS/CSS3, Figma, Electron, Bootstrap, jQuery.
           </strong></span> <br> <br><span class="date-wrapper"></span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width:33.3333%"><div data-v-28f55286="" data-v-3d9d9137="" class="card" style="border: 2px solid rgb(1, 160, 224); border-radius: 0.25rem;"><div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               " style="font-size: 20px; border-bottom: 2px solid rgb(255, 255, 255); color: white !important; font-weight: 700 !important;">
             <i class="lnr lnr-cloud"></i> Integrations
           </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
-          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, OAuth, SSL, Lambda, API Gateways, S3, IAM, EC2.
+          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, ANT, Heroku, SSL, Lambda, API Gateways, S3, IAM, EC2.
           </strong></span> <br> <br> <span class="date-wrapper"></span></h4></div></div></div></div></div></div></div></div></div>
 </div>
 <!-- mobile skills end-->
