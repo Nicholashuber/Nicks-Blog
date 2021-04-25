@@ -66,7 +66,7 @@ Every time I successfully research and solve a complex issue or create something
               ">
             Dev Talk ☕
           </h3>
-          <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
+          <h4 style="color: black !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
     Join one
@@ -83,7 +83,7 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             Current Projects
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
+          </h3> <h4 style="color: black !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
     View
   </a>
@@ -96,7 +96,7 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             About Me
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
+          </h3> <h4 style="color: black !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
 <br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
     Learn more
   </a>
