@@ -1,5 +1,5 @@
 <template>
-  <article
+  <!--<article
     :class="
       `subscribe-form-wrapper message is-dark subtle-box-shadow ${
         active ? 'active' : ''
@@ -18,7 +18,7 @@
     <div class="message-body">
       <news-letter-form />
     </div>
-  </article>
+  </article>-->
 </template>
 <script>
 import NewsLetterForm from '~/components/NewsLetterForm'

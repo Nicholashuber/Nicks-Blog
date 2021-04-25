@@ -11,28 +11,28 @@
 
             <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
-                    <a href="#about" style="color:white;">
+                    <a href="/home" style="color:white;">
                         <span class="menu-icon lnr lnr-home"></span>
                         Home
                     </a>
                 </li>
                <!-- <li>
-                    <a href="#about" style="color:white;">
+                    <a href="/about" style="color:white;">
                         <span class="menu-icon lnr lnr-user"></span>
                         <span class="visible-xs">About</span>
                     </a>
                 </li>-->
                  <li class="visible-xs" style="color:white;">
-                    <a href="#resume" style="color:white;">
+                    <a href="/about" style="color:white;">
                         <span class="menu-icon lnr lnr-license"></span>
                         Skills
                     </a>
                 </li>
 
                 <li>
-                    <a href="#portfolio" style="color:white;">
+                    <a href="/categories/portfolio" style="color:white;">
                         <span class="menu-icon lnr lnr-briefcase"></span>
-                        Portfolio
+                        Projects
                     </a>
                 </li>
 
