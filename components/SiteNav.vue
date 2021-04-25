@@ -27,7 +27,7 @@
                  <li class="visible-xs" style="color:white;">
                     <a href="#resume" style="color:white;">
                         <span class="menu-icon lnr lnr-license"></span>
-                        Resume
+                        Skills
                     </a>
                 </li>
 
@@ -232,4 +232,10 @@ header .navbar-nav.navbar-right {
     display: block;
     padding: 10px 15px;
 }
+.nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: white;
+    color:black;
+}
+
 </style>
