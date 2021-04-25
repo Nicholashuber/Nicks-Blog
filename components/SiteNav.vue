@@ -7,7 +7,7 @@
     aria-label="main navigation"
   >
 
-  <div class="header-mobile">
+  <div class="header-mobile" style="display:none;">
 
             <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
@@ -244,8 +244,11 @@ header .navbar-nav.navbar-right {
  .page-main-section {
     margin-top: 26px;
 }
+.header-mobile{
+  display:none;
+}
 }
   .content{
-   display:none !important;
+   display2:none !important;
  }
 </style>
