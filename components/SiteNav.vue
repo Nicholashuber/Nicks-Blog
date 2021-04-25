@@ -237,4 +237,12 @@ header .navbar-nav.navbar-right {
    display:none !important;
  }
 }
+@media (min-width: 576px) { 
+  .content{
+   display:none !important;
+ }
+ .page-main-section {
+    margin-top: 26px;
+}
+}
 </style>

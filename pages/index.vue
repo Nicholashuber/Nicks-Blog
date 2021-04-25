@@ -121,12 +121,5 @@ export default {
 strong{
   color: white;
 }
-@media (min-width: 576px) { 
-  .content{
-   display:none !important;
- }
- .page-main-section {
-    margin-top: 26px;
-}
-}
+
 </style>
