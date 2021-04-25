@@ -245,7 +245,7 @@ header .navbar-nav.navbar-right {
     margin-top: 26px;
 }
 .header-mobile{
-  display:none;
+  display: block !important;
 }
 }
   .content{
