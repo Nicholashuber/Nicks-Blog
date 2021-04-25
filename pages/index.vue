@@ -3,7 +3,18 @@
 
 
 
-  <main class="section page-main-section" style="padding-bottom: 0px !important;"><div class="container"><div class="columns"><!----> <div class="column is-three-quarters"><div class="content">
+  <main class="section page-main-section" style="padding-bottom: 0px !important;">
+  <div class="container">
+  
+  <div class="columns"><!---->
+   <div class="column is-three-quarters">
+   
+<div class="mobileonly" style="display:none;">
+<h4 style="font-size:36px!important;font-weight:700!important">I'm Nick Huber, Developer &amp; Consultant
+  </h4>
+</div>
+
+   <div class="content">
   <h4 style="font-size: 36px !important; font-weight: 700 !important;">I'm Nick Huber, Developer &amp; Consultant
   </h4>
   
@@ -109,5 +120,13 @@ export default {
 }
 strong{
   color: white;
+}
+@media (min-width: 576px) { 
+  .content{
+   display:none !important;
+ }
+ .page-main-section {
+    margin-top: 26px;
+}
 }
 </style>
