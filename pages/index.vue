@@ -130,7 +130,59 @@ Every time I successfully research and solve a complex issue or create something
           
            <div class="signature mt-20"><img src="~/assets/uploads/signature-white.png" alt=""></div> <p><img src="~/assets/uploads/sf-plat.png" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/deploymentlifecycle.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/sf-admin.png" alt="" width="276" height="157" class="size-full wp-image-256 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-builder.jpg" alt="" width="273" height="156" class="wp-image-255 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-service.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"></p></div></div> <aside class="column right-sidebar is-one-quarter"><div class="about-info">
 <img src="~/assets/uploads/profilepic-opt.jpg" style="width: 100%;" alt="profile-pic">
-<h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> <br><br> <center></center></aside></div></div></main>
+<h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> 
+<br><br>
+
+
+
+
+
+
+
+
+
+<!-- mobile Skills start-->
+<div class="mobileonly" style="display:none;">
+<div data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><div data-v-3d9d9137="" class="columns items is-multiline"><div data-v-3d9d9137="" class="column items" style="width:33.3333%"><div data-v-28f55286="" data-v-3d9d9137="" class="card" style="border: 2px solid rgb(1, 160, 224); border-radius: 0.25rem;"><div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              " style="padding-bottom: 1px; border-bottom: 2px solid rgb(255, 255, 255); font-size: 20px; color: white !important; font-weight: 700 !important;">
+            Backend Development
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
+          Apex, Java, PHP, NodeJS, Python, Express, Serverless, MySQL, ElasticSearch, Regex, SSL, Redis, AWS, Linux.
+
+          </strong></span> <br> <br><span class="date-wrapper"></span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width:33.3333%"><div data-v-28f55286="" data-v-3d9d9137="" class="card" style="border: 2px solid rgb(1, 160, 224); border-radius: 0.25rem;"><div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              " style="padding-bottom: 1px; border-bottom: 2px solid rgb(255, 255, 255); font-size: 20px; color: white !important; font-weight: 700 !important;">
+            Frontend Development
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
+           SASS, Less, JS/ES6, Grunt, Gulp, Angular, HTML/HTML5, CSS/CSS3, PhantomJS, Bootstrap, jQuery.
+          </strong></span> <br> <br><span class="date-wrapper"></span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width:33.3333%"><div data-v-28f55286="" data-v-3d9d9137="" class="card" style="border: 2px solid rgb(1, 160, 224); border-radius: 0.25rem;"><div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              " style="font-size: 20px; border-bottom: 2px solid rgb(255, 255, 255); color: white !important; font-weight: 700 !important;">
+            Integrations
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6" style="color:#fff!important;opacity:unset!important;margin-bottom:0!important"><span class="author-wrapper"><strong style="color:#fff!important">
+          Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, OAuth, SSL, Lambda, API Gateways, S3, IAM, EC2.
+          </strong></span> <br> <br> <span class="date-wrapper"></span></h4></div></div></div></div></div></div></div></div></div>
+</div>
+<!-- mobile skills end-->
+
+
+
+
+
+
+
+
+
+ <!--<center></center>-->
+ 
+ </aside>
+ </div>
+ </div>
+ </main>
 
 
     <!--<site-hero :title="title" :subtitle="subtitle" :image="featureImage">
