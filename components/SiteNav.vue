@@ -228,5 +228,8 @@ header .navbar-nav.navbar-right {
     background-color: white;
     color:black;
 }
-
+.navbar-nav.mobile-bar > li > a > span.menu-icon {
+    display: block;
+    font-size: 1.8em;
+}
 </style>
