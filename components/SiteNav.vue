@@ -11,7 +11,7 @@
 
             <ul class="nav navbar-nav navbar-right mobile-bar">
                 <li>
-                    <a href="/home" style="color:white;">
+                    <a href="/" style="color:white;">
                         <span class="menu-icon lnr lnr-home"></span>
                         Home
                     </a>
