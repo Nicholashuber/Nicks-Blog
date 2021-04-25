@@ -10,10 +10,15 @@
    <div class="column is-three-quarters">
    
 <div class="mobileonly" style="display:none;">
-<h4 style="font-size:36px!important;font-weight:700!important">I'm Nick Huber, Developer &amp; Consultant
+<h4 style="font-size:36px!important;font-weight:700!important">I'm Nick Huber
   </h4>
+  <h3 style="">Developer &amp; Consultant</h3>
 </div>
-
+<style>
+.content {
+display:none;
+}
+</style>
    <div class="content">
   <h4 style="font-size: 36px !important; font-weight: 700 !important;">I'm Nick Huber, Developer &amp; Consultant
   </h4>
