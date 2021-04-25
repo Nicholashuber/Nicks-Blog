@@ -33,12 +33,88 @@ I am a 5x Certified Salesforce Developer who utilizes the Salesforce platform's 
 Having understood many modern design patterns and Full-Stack technologies I am skilled in
  spearheading any task while incorporating user and business requirements into cost-effective,
   secure and user-friendly solutions.
-<br><br>
-  Thanks to many online resources detailing advanced Salesforce topics my career flourished.
+<br>
+  
+          </p>
+          
+
+          <!--
+          Thanks to many online resources detailing advanced Salesforce topics my career flourished.
 Every time I successfully research and solve a complex issue or create something new for companies
  I cant help but feel a warm and fuzzy feeling inside. To show my appreciation I am logging and sharing
   examples, tricks, and solutions for other developers to also reach new heights aswell.
-          </p> <div class="signature mt-20"><img src="~/assets/uploads/signature-white.png" alt=""></div> <p><img src="~/assets/uploads/sf-plat.png" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/deploymentlifecycle.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/sf-admin.png" alt="" width="276" height="157" class="size-full wp-image-256 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-builder.jpg" alt="" width="273" height="156" class="wp-image-255 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-service.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"></p></div></div> <aside class="column right-sidebar is-one-quarter"><div class="about-info">
+
+  -->
+          <!-- New Skills Section -->
+
+
+
+
+<div v-if="$route.name === 'index'" data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
+    margin-left2: 16.66667%;
+    width2: 66.66667%;
+"><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: white !important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content">
+<div data-v-28f55286="" class="media">
+<div data-v-28f55286="" class="media-content">
+
+<h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              ">
+            Backend Development <i class="lnr lnr-laptop"></i>
+          </h3>
+          <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
+<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
+    Join one
+  </a>
+  </span>
+  </h4>
+  
+  </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: white !important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              ">
+            Frontend Development
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
+<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
+    View
+  </a>
+  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+    border-color: white !important;
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+"> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+              is-home
+              has-text-weight-light
+              ">
+            Integrations
+          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
+<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
+    Learn more
+  </a>
+  </span></h4></div></div></div></div></div></div>
+
+
+
+
+<br>
+
+
+
+
+          <!-- New Skills Section End -->
+          
+          
+           <div class="signature mt-20"><img src="~/assets/uploads/signature-white.png" alt=""></div> <p><img src="~/assets/uploads/sf-plat.png" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/deploymentlifecycle.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"> <img src="~/assets/uploads/sf-admin.png" alt="" width="276" height="157" class="size-full wp-image-256 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-builder.jpg" alt="" width="273" height="156" class="wp-image-255 alignleft" style="width: 176px; padding: 10px;"><img src="~/assets/uploads/sf-service.jpg" alt="" width="272" height="156" class=" wp-image-254 alignleft" style="width: 176px; padding: 10px;"></p></div></div> <aside class="column right-sidebar is-one-quarter"><div class="about-info">
 <img src="~/assets/uploads/profilepic-opt.jpg" style="width: 100%;" alt="profile-pic">
 <h3 class="mb-20" style="font-size: 22px; font-weight: 700;">Personal Information</h3><br> <ul><li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Name</span><span class="value">Nick Huber</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Age</span><span class="value">26 Years</span></li> <li><span class="title2" style="font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 2px solid rgb(255, 255, 255); position: relative; display: inline-block; margin-right: 15px; padding-bottom: 1px; color: rgb(255, 255, 255);">Email</span><span class="value">Nick@Huber.codes</span></li></ul></div><br> <img src="https://i.gyazo.com/f471cff490a2a67acc1838d62d863d45.png" style="width: 100%;"> <img src="https://i.gyazo.com/dc874a0dba5eaa68bfb5ee29aefd2196.png" style="width: 100%;"> <br><br> <center></center></aside></div></div></main>
 
