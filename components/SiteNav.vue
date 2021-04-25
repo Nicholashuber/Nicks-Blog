@@ -37,7 +37,7 @@
                 </li>
 
                 <li>
-                    <a href="#contact" style="color:white;">
+                    <a href="/contact" style="color:white;">
                         <span class="menu-icon lnr lnr-envelope"></span>
                         <span class="visible-xs">Contact</span>
                     </a>
