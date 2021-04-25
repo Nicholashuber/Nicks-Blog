@@ -225,8 +225,8 @@ header .navbar-nav.navbar-right {
 }
 .nav>li>a:hover, .nav>li>a:focus {
     text-decoration: none;
-    background-color: white;
-    color:black;
+    background-color: #101012;
+    color: white !important;
 }
 .navbar-nav.mobile-bar > li > a > span.menu-icon {
     display: block;
