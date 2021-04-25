@@ -232,12 +232,12 @@ header .navbar-nav.navbar-right {
     display: block;
     font-size: 1.8em;
 }
-@media (min-width: 576px) { 
+@media (max-width: 576px) { 
   .navbar-brand{
    display:none !important;
  }
 }
-@media (min-width: 576px) { 
+@media (max-width: 576px) { 
   .content{
    display:none !important;
  }
