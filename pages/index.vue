@@ -50,7 +50,7 @@ Every time I successfully research and solve a complex issue or create something
 
 
 
-<div v-if="$route.name === 'index'" data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
+<div data-v-2f15ddaa="" class="under-subtitle animated fadeInDown slower"><div data-v-64d22838=""><div data-v-3d9d9137="" class="grid grid-theme-boxes"><!----> <div data-v-3d9d9137="" class="columns items is-multiline" style="
     margin-left2: 16.66667%;
     width2: 66.66667%;
 "><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
@@ -61,7 +61,7 @@ Every time I successfully research and solve a complex issue or create something
 <div data-v-28f55286="" class="media">
 <div data-v-28f55286="" class="media-content">
 
-<h3 style="color: black !important;font-weight: 700 !important;" data-v-28f55286="" class="title
+<h3 style="color: white !important;font-weight: 700 !important;" data-v-28f55286="" class="title
               is-home
               has-text-weight-light
               ">
@@ -69,10 +69,7 @@ Every time I successfully research and solve a complex issue or create something
           </h3>
           <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper"><strong style="color: black !important;">Monthly Dev Discussion!<br> Join our zoom call.<br>Contribute ideas!</strong></span> <br>
-<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
-    Join one
-  </a>
-  </span>
+<br>
   </h4>
   
   </div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
@@ -84,11 +81,8 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             Frontend Development
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
-<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
-    View
-  </a>
-  </span></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
+          </h3> <h4 style="color: white !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">Check out some projects<br> of mine! I use a variety<br> of technologies.</strong></span> <br>
+<br></h4></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137="" style="
     border-color: white !important;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: .25rem;
@@ -97,11 +91,8 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             Integrations
-          </h3> <h4 style="color: black !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
-<br><span class="date-wrapper"><a class="button is-outlined is-small" style="color: #fff !important;background-color: #007bff;border-color: #007bff;">
-    Learn more
-  </a>
-  </span></h4></div></div></div></div></div></div>
+          </h3> <h4 style="color: white !important;" data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper"><strong style="color: black !important;">I'm a Fullstack Developer<br> who specializes in Salesforce!.</strong></span> <br>
+<br></h4></div></div></div></div></div></div>
 
 
 
