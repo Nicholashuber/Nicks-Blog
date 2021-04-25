@@ -66,7 +66,7 @@ Every time I successfully research and solve a complex issue or create something
               ">
             Backend Development
           </h3>
-          <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
+          <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
           Apex, Java, PHP, NodeJS, Python, Express, Serverless, MySQL, ElasticSearch, Regex, SSL, Redis, AWS, Linux.
@@ -89,7 +89,7 @@ Every time I successfully research and solve a complex issue or create something
               ">
             Frontend Development
           </h3> 
-          <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
+          <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
            SASS, Less, JS/ES6, Grunt, Gulp, Angular, HTML/HTML5, CSS/CSS3, PhantomJS, Bootstrap, jQuery.
@@ -106,7 +106,7 @@ Every time I successfully research and solve a complex issue or create something
               ">
             Integrations
           </h3> 
-          <h4 style="color: white !important;opacity: unset !important;" data-v-28f55286="" class="subtitle is-6">
+          <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
           <strong style="color: white !important;">
           Websockets, Twilio, Stripe, Shopify, Wordpress, Email, Webhooks, MicroBilt, OAuth, SSL, Lambda, API Gateways, S3, IAM, EC2.
