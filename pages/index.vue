@@ -66,7 +66,7 @@ Every time I successfully research and solve a complex issue or create something
               is-home
               has-text-weight-light
               ">
-            Backend Development
+            Backend Development <i class="lnr lnr-cog"></i>
           </h3>
           <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
@@ -91,7 +91,7 @@ Every time I successfully research and solve a complex issue or create something
               is-home
               has-text-weight-light
               ">
-            Frontend Development
+            Frontend Development <i class="lnr lnr-laptop-phone"></i>
           </h3> 
           <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
@@ -108,7 +108,7 @@ Every time I successfully research and solve a complex issue or create something
               is-home
               has-text-weight-light
               ">
-            Integrations
+            Integrations <i class="lnr lnr-cloud"></i>
           </h3> 
           <h4 style="color: white !important;opacity: unset !important;margin-bottom: 0px !important;" data-v-28f55286="" class="subtitle is-6">
           <span class="author-wrapper">
