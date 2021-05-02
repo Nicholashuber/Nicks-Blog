@@ -17,6 +17,7 @@
         <input
           class="input is-medium"
           type="email"
+          id="cf-email"
           placeholder="you@email.com"
         />
         <span class="icon is-small is-left">
@@ -31,6 +32,7 @@
         <input
           class="input is-medium"
           type="text"
+          id="cf-message"
           placeholder="Brief Summary"
         />
         <span class="icon is-small is-left">
@@ -50,9 +52,32 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary">
+      <button id="cf-submit" class="button is-primary">
         Contact Us
       </button>
     </div>
   </form>
+  <script type="text/javascript">
+       $(document).ready(function(){
+   $("#cf-submit").click(function(e) {
+                e.preventDefault();
+
+                var name = $("#cf-name").val();
+                var phone = $("#cf-email").val();
+                var message = $("#cf-message").val();
+
+        $.ajax({type: "POST", url: 'https://96yx281j77.execute-api.us-east-2.amazonaws.com/Prod', contentType: 'application/json', data: JSON.stringify({
+                        'name': name,
+                        'phone': phone,
+                        'message': message
+                    }), success: function(result){
+            $('#form-response').text('Thank you! I will reach out to you soon!');
+        },
+ error: function(){
+                        $('#form-response').text('Error.');
+                    }
+});
+    });
+});
+    </script>
 </template>
