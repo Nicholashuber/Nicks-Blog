@@ -1,10 +1,10 @@
 <template>
-  <form>
+  <form name="contact" method="POST" data-netlify="true">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" name="name" type="text" placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -16,6 +16,7 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
+          name="email"
           type="email"
           id="cf-email"
           placeholder="you@email.com"
@@ -30,9 +31,10 @@
       <label class="label is-medium">Subject</label>
       <div class="control has-icons-left">
         <input
+          name="subject"
           class="input is-medium"
           type="text"
-          id="cf-message"
+          id="cf-message
           placeholder="Brief Summary"
         />
         <span class="icon is-small is-left">
@@ -46,6 +48,7 @@
       <div class="control">
         <textarea
           class="textarea"
+          name="message"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
         ></textarea>
@@ -57,27 +60,4 @@
       </button>
     </div>
   </form>
-  <script type="text/javascript">
-       $(document).ready(function(){
-   $("#cf-submit").click(function(e) {
-                e.preventDefault();
-
-                var name = $("#cf-name").val();
-                var phone = $("#cf-email").val();
-                var message = $("#cf-message").val();
-
-        $.ajax({type: "POST", url: 'https://96yx281j77.execute-api.us-east-2.amazonaws.com/Prod', contentType: 'application/json', data: JSON.stringify({
-                        'name': name,
-                        'phone': phone,
-                        'message': message
-                    }), success: function(result){
-            $('#form-response').text('Thank you! I will reach out to you soon!');
-        },
- error: function(){
-                        $('#form-response').text('Error.');
-                    }
-});
-    });
-});
-    </script>
 </template>
