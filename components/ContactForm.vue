@@ -33,7 +33,6 @@
         <input
           class="input is-medium"
           type="text"
-          id="cf-message
           placeholder="Brief Summary"
         />
         <span class="icon is-small is-left">
