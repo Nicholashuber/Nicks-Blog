@@ -53,7 +53,7 @@
       </div>
     </div>
     <div class="control">
-      <button id="cf-submit" class="button is-primary">
+      <button id="cf-submit" type="submit" class="button is-primary">
         Contact Us
       </button>
     </div>
