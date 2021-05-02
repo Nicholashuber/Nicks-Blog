@@ -31,7 +31,6 @@
       <label class="label is-medium">Subject</label>
       <div class="control has-icons-left">
         <input
-          name="subject"
           class="input is-medium"
           type="text"
           id="cf-message
