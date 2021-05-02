@@ -1,5 +1,5 @@
 <template>
-  <form name="contact" method="POST">
+  <form action="https://submit-form.com/V99UzPDl">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
