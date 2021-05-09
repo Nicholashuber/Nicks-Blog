@@ -7,6 +7,8 @@ author: Nick Huber
 date: 2021-03-14T07:06:36.096Z
 featureImage: /uploads/pipcontrolfeat.png
 ---
+![](/uploads/pipcontrolwebsite.png)
+
 PipControl is a Chrome Extention with over 800+ users that allows you to watch videos in a floating window that is always ontop so you can keep an eye on what you want while interacting with websites or applications.\
 \
 This project started from a need. A need to watch youtube videos or movies whille working or researching. \
@@ -22,6 +24,3 @@ Having researched this I had the eureka moment to develop a browser extension to
 * Allow the Extension to exit Picture-in-Picture mode.
 * Allow the Extension to check if Picture-in-Picture mode can be triggered.
 
-
-
-![](/uploads/pipcontrolwebsite.png)
