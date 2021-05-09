@@ -5,7 +5,7 @@ category:
   - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:29:58.971Z
-featureImage: /uploads/b185acd8bb1f6000860e3dad7c2fa2c6.png
+featureImage: /uploads/fc3ad10355946fb1680d10c8c94694cc.png
 ---
 Built in NodeJS and deployed to heroku my twitter is now 100% automated and gains me a ton of new followers a week. It retweets popular tags I specify and automatically thanks people for following.\
 \
