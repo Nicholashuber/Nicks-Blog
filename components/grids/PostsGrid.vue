@@ -5,13 +5,16 @@
     :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
+
       <post-card
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
-        :author="item.author"
+        :author="item.category"
+        :subtitle="item.subtitle"
         :date="item.date"
       />
+
     </template>
   </resource-grid>
 </template>

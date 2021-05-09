@@ -1,10 +1,10 @@
 <template>
-  <form>
+  <form action="https://submit-form.com/V99UzPDl">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" name="name" type="text" placeholder="John Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -16,7 +16,9 @@
       <div class="control has-icons-left">
         <input
           class="input is-medium"
+          name="email"
           type="email"
+          id="cf-email"
           placeholder="you@email.com"
         />
         <span class="icon is-small is-left">
@@ -44,13 +46,14 @@
       <div class="control">
         <textarea
           class="textarea"
+          name="message"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
         ></textarea>
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary">
+      <button id="cf-submit" type="submit" class="button is-primary">
         Contact Us
       </button>
     </div>
