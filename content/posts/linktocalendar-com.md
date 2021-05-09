@@ -15,4 +15,30 @@ This project of mine was created due to a frustration! A service api I was using
 
 The new owners were deprecating their cool api assimilating it into their ecosystem. All the while going to charge a lot of money per request and removing functionality in favor of inconvenient SSO practices.
 
-Utilizing Herokus platform to host Api's I created a Nodejs instance that would take in requests and return a response with the url formatted for the chosen calendar service.
+Utilizing Herokus platform to host Api's I created a Nodejs instance that would take in requests and return a response with the url formatted for the chosen calendar service.\
+\
+
+## \
+\
+Try it out on this JSFiddle!
+
+<iframe _ngcontent-qtq-c7="" allow="" frameborder="0" height="300" id="JSFEMB_181842" sandbox="allow-modals allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation" src="https://jsfiddle.net/pnzhqLcy/8/embedded/html,result/dark/" width="100%"></iframe>
+
+## To use my service on YOUR website place this HTML where you would like the user to add the event to their calendar: 
+
+```
+<link rel="stylesheet" href="https://linktocalendar.com/assets/ltc-style-blue.css"/>
+<script src="https://linktocalendar.com/assets/linktocalendar-main.js"><script>
+<span class="linktocalendar ltc-style-blue">
+  <var class="ltc_event">
+    <var class="ltc_date_start">2019-05-04 12:00:00</var>
+    <var class="ltc_date_end">2019-05-04 18:00:00</var>
+    <var class="ltc_timezone">America/New_York</var>
+    <var class="ltc_title">Star Wars Day Party</var>
+    <var class="ltc_description">May the force be with you</var>
+    <var class="ltc_location">Tatooine</var>
+    <var class="ltc_organizer">Luke Skywalker</var>
+    <var class="ltc_organizer_email">Nick@huber.dev</var>
+  </var>
+</span>
+```
