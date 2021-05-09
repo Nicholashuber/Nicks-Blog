@@ -3,6 +3,10 @@
 
   <nav
     class="navbar has-shadow is-fixed-top"
+    style="max-width: 1344px;
+    flex-grow: 1;
+    margin: 0 auto;
+    width: auto;"
     role="navigation"
     aria-label="main navigation"
   >
