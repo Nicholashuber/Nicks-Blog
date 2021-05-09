@@ -10,7 +10,7 @@ featureImage: /uploads/pipcontrolfeat.png
 PipControl is a Chrome Extention with over 800+ users that allows you to watch videos in a floating window that is always ontop so you can keep an eye on what you want while interacting with websites or applications.\
 \
 This project started from a need. A need to watch youtube videos or movies whille working or researching. \
-Enter...The World Wide Web Consortium (**W3C**)
+Enter...The World Wide Web Consortium (**W3C**).
 
 The very people that define the web standards of the very internet we are on had this same need. They developed the protocols to allow browsers to utilize these events in a brand new way. Unfortently. Barely any websites develop cool ui experinces that utilize this quality of life update. \
 \
