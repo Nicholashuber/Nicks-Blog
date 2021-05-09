@@ -15,16 +15,14 @@ This project of mine was created due to a frustration! A service api I was using
 
 The new owners were deprecating their cool api assimilating it into their ecosystem. All the while going to charge a lot of money per request and removing functionality in favor of inconvenient SSO practices.
 
-Utilizing Herokus platform to host Api's I created a Nodejs instance that would take in requests and return a response with the url formatted for the chosen calendar service.\
-\
+Utilizing Herokus platform to host Api's I created a Nodejs instance that would take in requests and return a response with the url formatted for the chosen calendar service.
 
-## \
 \
 Try it out on this JSFiddle!
-
 <iframe _ngcontent-qtq-c7="" allow="" frameborder="0" height="300" id="JSFEMB_181842" sandbox="allow-modals allow-forms allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation" src="https://jsfiddle.net/pnzhqLcy/8/embedded/html,result/dark/" width="100%"></iframe>
 
-## To use my service on YOUR website place this HTML where you would like the user to add the event to their calendar: 
+
+## To use my service on YOUR website place this HTML where you would like the user to add the event to their calendar:
 
 ```
 <link rel="stylesheet" href="https://linktocalendar.com/assets/ltc-style-blue.css"/>
