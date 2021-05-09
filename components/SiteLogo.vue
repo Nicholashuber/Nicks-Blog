@@ -47,6 +47,9 @@ export default {
     position: absolute;
     height: 500px;
 }
+.logo-wrapper .logo-inner img {
+    margin-left: 0px;
+}
 @keyframes logoBlink {
   100% {
     transform: translateY(-360px);
