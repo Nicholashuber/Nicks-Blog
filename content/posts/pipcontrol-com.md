@@ -21,3 +21,7 @@ Having researched this I had the eureka moment to develop a browser extension to
 * Allow the Extension to know the size of the Picture-in-Picture window and notify the Extension when it changes.
 * Allow the Extension to exit Picture-in-Picture mode.
 * Allow the Extension to check if Picture-in-Picture mode can be triggered.
+
+
+
+![](/uploads/pipcontrolwebsite.png)
