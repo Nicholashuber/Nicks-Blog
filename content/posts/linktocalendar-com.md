@@ -17,7 +17,7 @@ The new owners were deprecating their cool api assimilating it into their ecosys
 
 Utilizing Herokus platform to host Api's I created a Nodejs instance that would take in requests and return a response with the url formatted for the chosen calendar service.
 
-\
+## \
 Try it out on this JSFiddle!
 
 ![](/uploads/jsfiddle.png)
