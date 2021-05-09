@@ -17,13 +17,13 @@ Twilio is one of my favorite platforms to work with. Twilio is one of the best c
 
 Lets start with creating a Call Center. Softphones help call centers and start up businesses take phone calls in a CRM or any platform of their choosing. A Softphone is a ui resembling a phone that lives inside your browser. The hard part about a softphone is the backend. If you think about it, it needs to be capable of alerting of incoming calls, handling queues, voicemail, rejection, transfer to another agent or department, the ability to direct the agent to the record related to the call, saving notes, and creating cases. That's alot of stuff and every one of these use cases can be handled perfectly if you know how to program on the Twilio platform like myself!
 
-![](/uploads/vcasset-1-800.png)
+![](/uploads/vcasset-1-500.png)
 
 ### Video Conferencing
 
 Another popular integration with Twillio is a virtual meeting platform! You can do this by leveraging Twilio's Programmable Video JS SDK and Twilio's Conversations JS SDK. It helps you and all your RTC needs in some nice tiny packages. virtual meetings are extremely in demand due to COVID. This has pushed the technology to become perfected and include more features. Now developers can harness the concepts and implementation on their own solutions and ventures with the use of the Twillio Video SDK.
 
-![](/uploads/masssmsasset-1-900.png)
+![](/uploads/masssmsasset-1-500.png)
 
 ### Text Messages
 
