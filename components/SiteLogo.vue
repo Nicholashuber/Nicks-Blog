@@ -48,7 +48,7 @@ export default {
     height: 500px;
 }
 .logo-wrapper .logo-inner img {
-    margin-left: 0px;
+    margin-left: 0px !important;
 }
 @keyframes logoBlink {
   100% {
