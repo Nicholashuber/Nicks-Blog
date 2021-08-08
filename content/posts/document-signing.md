@@ -2,7 +2,7 @@
 title: Document Signing
 subtitle: Docusign, Hellosign, SignNow
 category:
-  - Third Party Integrations
+  - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:27:00.000Z
 featureImage: /uploads/digital-signature-01-.jpg
