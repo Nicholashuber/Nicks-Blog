@@ -4,7 +4,7 @@ subtitle: GPT-3, Big Data, Machine Learning
 category:
   - Portfolio
 author: Nick Huber
-date: 2021-03-20T08:35:00.000Z
+date: 2021-03-20T08:28:00.000Z
 featureImage: /uploads/firmenich-creates-world-s-first-flavour-by-artificial-intelligence_wrbm_large.jpg
 ---
 Ahh the wonders of not having to think or do anymore! Why not create another intelligence to do it for you? Well hold your horses we aren't there yet. But what we do have is Visual, Text, and Functional AI to name a few I know of.
