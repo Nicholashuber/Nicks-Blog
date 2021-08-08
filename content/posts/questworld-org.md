@@ -4,7 +4,7 @@ subtitle: 2D Retro MMORPG
 category:
   - Portfolio
 author: Nick Huber
-date: 2021-03-14T06:55:56.896Z
+date: 2021-03-20T08:36:00.000Z
 featureImage: /uploads/qwfeatureimage.jpg
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
