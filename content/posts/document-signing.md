@@ -1,5 +1,5 @@
 ---
-title: Document Signing
+title: Document Signing Integrations
 subtitle: Docusign, Hellosign, SignNow
 category:
   - Portfolio
