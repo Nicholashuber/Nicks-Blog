@@ -229,19 +229,20 @@ Every time I successfully research and solve a complex issue or create something
       </template>
     </main-section>
 
-    <main-section theme="one-column" style="    margin-top: 0px !important;    padding-top: 0px;">
+    <!-- remove blog on homepage -->
+    <!--<main-section theme="one-column" style="    margin-top: 0px !important;    padding-top: 0px;">
     
       <template v-slot:default>
             <p class="title" style="color: white;">
                 Blog
-              </p>
+              </p>-->
         <!-- All Posts -->
-        <posts-grid :category="['Blog']"/>
+        <!--<posts-grid :category="['Blog']"/>
       </template>
       <template v-slot:sidebar>
         Nothing here
       </template>
-    </main-section>
+    </main-section>-->
     <!--<news-letter-form-modal />-->
   </div>
 </template>
