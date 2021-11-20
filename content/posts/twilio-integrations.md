@@ -1,11 +1,11 @@
 ---
 title: Twilio Integrations
-subtitle: Call Centers, Video Conferences, SMS
+subtitle: Call Centers, Video Conferences, SMS, Automation, IoT
 category:
   - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:38:58.031Z
-featureImage: /uploads/twilioexamples.png
+featureImage: /uploads/twiliocallcenterbanner.jpeg
 ---
 ## Integrated complete IVR solutions using Twilio in various platforms like Salesforce, Desktop Apps and in general Websites
 
