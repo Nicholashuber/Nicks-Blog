@@ -1,6 +1,6 @@
 ---
-title: Salesforce Lightning Components
-subtitle: Calling APIs, Driving Processes, Scalable Solutions
+title: Salesforce Development
+subtitle: LWC, Apex, Triggers, Flows, Communities, Sales/Service Cloud, etc.
 category:
   - Portfolio
 author: Nick Huber
