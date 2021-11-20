@@ -5,6 +5,6 @@ category:
   - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:59:01.721Z
-featureImage: /uploads/3545374.jpg
+featureImage: /uploads/paymentsystemsbanner.jpg
 ---
 Created custom integrations to save events recieved in Stripe to resend nativly to salesforce so that you can relate puchases to records inside Salesforce.
