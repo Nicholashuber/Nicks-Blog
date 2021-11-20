@@ -1,11 +1,11 @@
 ---
-title: Artificial Intelligence
-subtitle: GPT-3, Big Data, Machine Learning
+title: Android & iOS Development
+subtitle: Native Hardware, Modern Design, Session Management
 category:
   - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:28:00.000Z
-featureImage: /uploads/firmenich-creates-world-s-first-flavour-by-artificial-intelligence_wrbm_large.jpg
+featureImage: /uploads/iosandroidbanner.png
 ---
 Ahh the wonders of not having to think or do anymore! Why not create another intelligence to do it for you? Well hold your horses we aren't there yet. But what we do have is Visual, Text, and Functional AI to name a few I know of.
 
