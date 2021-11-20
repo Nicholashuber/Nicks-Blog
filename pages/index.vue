@@ -208,15 +208,15 @@ Every time I successfully research and solve a complex issue or create something
     margin-top2: 30px;">
       <template v-slot:default>
       <p class="title" style="color: white;">
-                Projects
-<a href="/categories/portfolio"><button class="button is-primary" style="
+                Success Stories
+<!--<a href="/categories/portfolio"><button class="button is-primary" style="
     border: 1px solid transparent;
     border-radius: 4px;
     border-color: white;
     border-width: 1px;
     background-color: transparent;
     margin-left: 15px;
-">Show More</button></a>
+">Show More</button></a>-->
               </p>
         <!-- All Posts -->
         <posts-grid :category="['Portfolio']"/>
