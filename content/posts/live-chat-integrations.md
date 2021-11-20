@@ -1,10 +1,10 @@
 ---
-title: Live Chat Integrations
-subtitle: Automation, Internal, Customer Facing, HIPPA, Funnel Chat Systems.
+title: Salesforce Lightning Components
+subtitle: Calling APIs, Driving Processes, Scalable Solutions
 category:
   - Portfolio
 author: Nick Huber
 date: 2021-03-20T08:37:00.000Z
-featureImage: /uploads/chatrobot.png
+featureImage: /uploads/lightningcomponentbanner.jpg
 ---
-live chat solutions
+Lightning Web Components
