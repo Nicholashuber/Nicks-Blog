@@ -1,5 +1,5 @@
 ---
-title: Payment System Integrations
+title: Payment Integrations
 subtitle: Many different payment processing systems exist
 category:
   - Portfolio
