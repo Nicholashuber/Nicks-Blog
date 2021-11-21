@@ -1,6 +1,6 @@
 ---
 title: Payment Integrations
-subtitle: Many different payment processing systems exist
+subtitle: Stripe, Square, Shopify, Apple Pay, Google Pay, InstaMed, Skrill
 category:
   - Portfolio
 author: Nick Huber
