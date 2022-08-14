@@ -228,7 +228,7 @@ Every time I successfully research and solve a complex issue or create something
     
       <template v-slot:default>
       <p class="title" style="color: white;">
-                Success Stories
+                My Projects
 <!--<a href="/categories/portfolio"><button class="button is-primary" style="
     border: 1px solid transparent;
     border-radius: 4px;
