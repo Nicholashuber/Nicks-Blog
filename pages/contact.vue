@@ -1,5 +1,6 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
+  <script type="application/javascript" src="https://www.google.com/recaptcha/api.js"></script>
     <site-hero
       title="Contact Me"
       subtitle="A Passionate Developer and Consultant"
