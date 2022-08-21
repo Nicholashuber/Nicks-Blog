@@ -1,5 +1,5 @@
 <template>
-  <form action="https://submit-form.com/V99UzPDl">
+  <form method="POST" action="https://submit-form.com/V99UzPDl">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -52,6 +52,16 @@
         ></textarea>
       </div>
     </div>
+    
+        <!-- Verify -->
+    <div class="field">
+      <label class="label is-medium">Verify</label>
+      <div class="control">
+        <div class="g-recaptcha" data-sitekey="6LfSLJUhAAAAAMajJdjZgqc6aQh-8zYHdL18tJE8"></div>
+      </div>
+    </div>
+    
+    
     <div class="control">
       <button id="cf-submit" type="submit" class="button is-primary">
         Contact Us
