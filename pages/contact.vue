@@ -1,4 +1,5 @@
 <template>
+<component is="script" src="https://www.google.com/recaptcha/api.js" async></component>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Me"
