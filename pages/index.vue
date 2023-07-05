@@ -338,7 +338,170 @@ Every time I successfully research and solve a complex issue or create something
           
           
           
+ <!-- first new one -->
+
           
+          
+          
+          
+          <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+          <div data-v-28f55286="" class="card" data-v-3d9d9137="">
+          <div data-v-28f55286="" class="card-image">
+          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <figure data-v-28f55286="" class="image is-2by1">
+          <img data-v-28f55286="" src="https://i.gyazo.com/bbadfb827e2d64a3d415ef968a4024dd.png" srcset="https://i.gyazo.com/bbadfb827e2d64a3d415ef968a4024dd.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
+          <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
+          <div data-v-172e7751="" class="spinner"></div>
+          </div>
+          </figure>
+          </a>
+          </div> 
+          <div data-v-28f55286="" class="card-content">
+          <div data-v-28f55286="" class="media">
+          <div data-v-28f55286="" class="media-content">
+          <a data-v-28f55286="" href="https://www.bookingapi.dev/" target="_blank" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            BookingApi.dev
+          </h3> 
+          
+          
+          <h4 data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper" style="color: white;">
+          <div>Create & Manage Bookings</div>
+          </span> 
+          </h4>
+          </a>
+          </div></div></div></div></div>
+          
+          
+          
+          
+          
+
+
+<!--first new one-->         
+
+
+
+
+
+
+
+
+
+
+          
+ <!-- 2 new one -->
+
+          
+          
+          
+          
+          <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+          <div data-v-28f55286="" class="card" data-v-3d9d9137="">
+          <div data-v-28f55286="" class="card-image">
+          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <figure data-v-28f55286="" class="image is-2by1">
+          <img data-v-28f55286="" src="https://i.gyazo.com/aaaa7ebd17f6200fd79522417613ca48.jpg" srcset="https://i.gyazo.com/aaaa7ebd17f6200fd79522417613ca48.jpg" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
+          <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
+          <div data-v-172e7751="" class="spinner"></div>
+          </div>
+          </figure>
+          </a>
+          </div> 
+          <div data-v-28f55286="" class="card-content">
+          <div data-v-28f55286="" class="media">
+          <div data-v-28f55286="" class="media-content">
+          <a data-v-28f55286="" href="#" target="_blank" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            Niche.dev
+          </h3> 
+          
+          
+          <h4 data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper" style="color: white;">
+          <div>Digital Business Solutions Provider</div>
+          </span> 
+          </h4>
+          </a>
+          </div></div></div></div></div>
+          
+          
+          
+          
+          
+
+
+<!--2 new one-->         
+
+
+
+
+
+
+
+
+
+
+
+
+          
+ <!-- 3 new one -->
+
+          
+          
+          
+          
+          <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+          <div data-v-28f55286="" class="card" data-v-3d9d9137="">
+          <div data-v-28f55286="" class="card-image">
+          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <figure data-v-28f55286="" class="image is-2by1">
+          <img data-v-28f55286="" src="https://i.imgur.com/WZ7A3wE.png" srcset="https://i.imgur.com/WZ7A3wE.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
+          <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
+          <div data-v-172e7751="" class="spinner"></div>
+          </div>
+          </figure>
+          </a>
+          </div> 
+          <div data-v-28f55286="" class="card-content">
+          <div data-v-28f55286="" class="media">
+          <div data-v-28f55286="" class="media-content">
+          <a data-v-28f55286="" href="https://initroom.com/" target="_blank" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            BigString.ai
+          </h3> 
+          
+          
+          <h4 data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper" style="color: white;">
+          <div>A service that allows you to ask Ai large context questions</div>
+          </span> 
+          </h4>
+          </a>
+          </div></div></div></div></div>
+          
+          
+          
+          
+          
+
+
+<!--3 new one-->         
+
+
+
+
+  
+
+
+  
           
           
           
