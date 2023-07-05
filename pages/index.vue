@@ -256,75 +256,30 @@ Every time I successfully research and solve a complex issue or create something
               has-text-weight-light
               ">
             LinkToCalendar.com
-          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Add Events to Google Calendar, Outlook, iCal</div></span> <!----></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="https://pipcontrol.com/" target="_blank" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="/_nuxt/uploads/1dc0725-640.jpg" srcset="/_nuxt/uploads/06700df-640.png 640w,/_nuxt/uploads/255cf53-942.png 942w" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="https://pipcontrol.com/" target="_blank" class=""><h3 data-v-28f55286="" class="title
-              is-5
-              has-text-weight-light
-              ">
-            PiPControl.com
-          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Overlay any video source where ever you're working. 800+ Users</div></span> <!----></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="https://weatherbyteapp.netlify.app/" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="https://i.imgur.com/RCOAWvL.png" srcset="https://i.imgur.com/RCOAWvL.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="https://weatherbyteapp.netlify.app/" class=""><h3 data-v-28f55286="" class="title
-              is-5
-              has-text-weight-light
-              ">
-            WeatherByte IOS & Android App
-          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Native Hardware, Modern Design, Session Management</div></span> <!----></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="#" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="/_nuxt/uploads/d44472b-640.png" srcset="https://i.gyazo.com/f77337a4311f2ab5395e62eb213ebfdf.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="#" class=""><h3 data-v-28f55286="" class="title
-              is-5
-              has-text-weight-light
-              ">
-            LWCsnipp.com
-          </h3> 
-          
-          
-          <h4 data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper" style="color: white;">
-          <div>A collection of LWC snippets</div></span> <!----></h4>
-          </a></div></div></div></div></div>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <!--
-          
-<div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
-          <div data-v-28f55286="" class="card" data-v-3d9d9137="">
-          <div data-v-28f55286="" class="card-image">
-          <a data-v-28f55286="" href="https://saltyalert.netlify.app/" target="_blank" class="">
-          <figure data-v-28f55286="" class="image is-2by1">
-          <img data-v-28f55286="" src="/_nuxt/uploads/643f3ce-640.jpg" srcset="https://i.imgur.com/AkCaNfv.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
-          <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
-          <div data-v-172e7751="" class="spinner"></div>
-          </div>
-          </figure>
-          </a>
-          </div> 
-          <div data-v-28f55286="" class="card-content">
-          <div data-v-28f55286="" class="media">
-          <div data-v-28f55286="" class="media-content">
-          <a data-v-28f55286="" href="https://saltyalert.netlify.app/" target="_blank" class=""><h3 data-v-28f55286="" class="title
-              is-5
-              has-text-weight-light
-              ">
-            SaltyAlert.com
-          </h3> 
-          
-          
-          <h4 data-v-28f55286="" class="subtitle is-6">
-          <span class="author-wrapper" style="color: white;">
-          <div>Mass SMS/Email alerts for SaltyBet.com tournaments</div>
-          </span> 
-          </h4>
-          </a>
-          </div></div></div></div></div>
-          
-          
-          
-          -->
-          
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Add Events to Google Calendar, Outlook, iCal</div></span> <!----></h4></a></div></div></div></div></div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           
           
           
@@ -494,6 +449,96 @@ Every time I successfully research and solve a complex issue or create something
 
 
 <!--3 new one-->         
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="https://pipcontrol.com/" target="_blank" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="/_nuxt/uploads/1dc0725-640.jpg" srcset="/_nuxt/uploads/06700df-640.png 640w,/_nuxt/uploads/255cf53-942.png 942w" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="https://pipcontrol.com/" target="_blank" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            PiPControl.com
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Overlay any video source where ever you're working. 800+ Users</div></span> <!----></h4></a></div></div></div></div></div>
+  
+  
+  
+  
+  
+  
+  
+  <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="https://weatherbyteapp.netlify.app/" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="https://i.imgur.com/RCOAWvL.png" srcset="https://i.imgur.com/RCOAWvL.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="https://weatherbyteapp.netlify.app/" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            WeatherByte IOS & Android App
+          </h3> <h4 data-v-28f55286="" class="subtitle is-6"><span class="author-wrapper" style="color: white;"><div>Native Hardware, Modern Design, Session Management</div></span> <!----></h4></a></div></div></div></div></div><div data-v-3d9d9137="" class="column items" style="width: 33.3333%;"><div data-v-28f55286="" class="card" data-v-3d9d9137=""><div data-v-28f55286="" class="card-image"><a data-v-28f55286="" href="#" class=""><figure data-v-28f55286="" class="image is-2by1"><img data-v-28f55286="" src="/_nuxt/uploads/d44472b-640.png" srcset="https://i.gyazo.com/f77337a4311f2ab5395e62eb213ebfdf.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute"><div data-v-172e7751="" class="spinner"></div></div></figure></a></div> <div data-v-28f55286="" class="card-content"><div data-v-28f55286="" class="media"><div data-v-28f55286="" class="media-content"><a data-v-28f55286="" href="#" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            LWCsnipp.com
+          </h3> 
+          
+          
+          <h4 data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper" style="color: white;">
+          <div>A collection of LWC snippets</div></span> <!----></h4>
+          </a></div></div></div></div></div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <!--
+          
+<div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
+          <div data-v-28f55286="" class="card" data-v-3d9d9137="">
+          <div data-v-28f55286="" class="card-image">
+          <a data-v-28f55286="" href="https://saltyalert.netlify.app/" target="_blank" class="">
+          <figure data-v-28f55286="" class="image is-2by1">
+          <img data-v-28f55286="" src="/_nuxt/uploads/643f3ce-640.jpg" srcset="https://i.imgur.com/AkCaNfv.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
+          <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
+          <div data-v-172e7751="" class="spinner"></div>
+          </div>
+          </figure>
+          </a>
+          </div> 
+          <div data-v-28f55286="" class="card-content">
+          <div data-v-28f55286="" class="media">
+          <div data-v-28f55286="" class="media-content">
+          <a data-v-28f55286="" href="https://saltyalert.netlify.app/" target="_blank" class=""><h3 data-v-28f55286="" class="title
+              is-5
+              has-text-weight-light
+              ">
+            SaltyAlert.com
+          </h3> 
+          
+          
+          <h4 data-v-28f55286="" class="subtitle is-6">
+          <span class="author-wrapper" style="color: white;">
+          <div>Mass SMS/Email alerts for SaltyBet.com tournaments</div>
+          </span> 
+          </h4>
+          </a>
+          </div></div></div></div></div>
+          
+          
+          
+          -->
+          
+
 
 
 
