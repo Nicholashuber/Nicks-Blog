@@ -461,7 +461,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-28f55286="" class="card-image">
           <a data-v-28f55286="" href="#" target="_blank" class="">
           <figure data-v-28f55286="" class="image is-2by1">
-          <img data-v-28f55286="" src="https://i.imgur.com/WZ7A3wE.png" srcset="https://i.imgur.com/WZ7A3wE.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
+          <img data-v-28f55286="" src="https://i.imgur.com/mYFiOsd.png" srcset="https://i.imgur.com/mYFiOsd.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
           <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
           <div data-v-172e7751="" class="spinner"></div>
           </div>
@@ -471,7 +471,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-28f55286="" class="card-content">
           <div data-v-28f55286="" class="media">
           <div data-v-28f55286="" class="media-content">
-          <a data-v-28f55286="" href="https://initroom.com/" target="_blank" class=""><h3 data-v-28f55286="" class="title
+          <a data-v-28f55286="" href="#" target="_blank" class=""><h3 data-v-28f55286="" class="title
               is-5
               has-text-weight-light
               ">
