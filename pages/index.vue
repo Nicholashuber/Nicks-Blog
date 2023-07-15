@@ -302,7 +302,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
           <div data-v-28f55286="" class="card" data-v-3d9d9137="">
           <div data-v-28f55286="" class="card-image">
-          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <a data-v-28f55286="" href="https://www.bookingapi.dev/" target="_blank" class="">
           <figure data-v-28f55286="" class="image is-2by1">
           <img data-v-28f55286="" src="https://i.gyazo.com/bbadfb827e2d64a3d415ef968a4024dd.png" srcset="https://i.gyazo.com/bbadfb827e2d64a3d415ef968a4024dd.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
           <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
@@ -357,7 +357,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
           <div data-v-28f55286="" class="card" data-v-3d9d9137="">
           <div data-v-28f55286="" class="card-image">
-          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <a data-v-28f55286="" href="https://nichedev.netlify.app/" target="_blank" class="">
           <figure data-v-28f55286="" class="image is-2by1">
           <img data-v-28f55286="" src="https://i.gyazo.com/aaaa7ebd17f6200fd79522417613ca48.jpg" srcset="https://i.gyazo.com/aaaa7ebd17f6200fd79522417613ca48.jpg" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
           <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
@@ -369,7 +369,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-28f55286="" class="card-content">
           <div data-v-28f55286="" class="media">
           <div data-v-28f55286="" class="media-content">
-          <a data-v-28f55286="" href="#" target="_blank" class=""><h3 data-v-28f55286="" class="title
+          <a data-v-28f55286="" href="https://nichedev.netlify.app/" target="_blank" class=""><h3 data-v-28f55286="" class="title
               is-5
               has-text-weight-light
               ">
@@ -414,7 +414,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-3d9d9137="" class="column items" style="width: 33.3333%;">
           <div data-v-28f55286="" class="card" data-v-3d9d9137="">
           <div data-v-28f55286="" class="card-image">
-          <a data-v-28f55286="" href="#" target="_blank" class="">
+          <a data-v-28f55286="" href="https://bigstring.netlify.app/" target="_blank" class="">
           <figure data-v-28f55286="" class="image is-2by1">
           <img data-v-28f55286="" src="https://i.imgur.com/mYFiOsd.png" srcset="https://i.imgur.com/mYFiOsd.png" width="4000" height="2000" class="opti-image opti-image-loaded opti-image-responsive" sizes="(min-width: 768px) 33.333333333333336vw" style="width: 4000px; height: 216px; min-height: 1px; max-width: 100%; display: block; object-fit: cover;"> 
           <div data-v-172e7751="" class="spinner-wrapper spinner-position-absolute">
@@ -426,7 +426,7 @@ Every time I successfully research and solve a complex issue or create something
           <div data-v-28f55286="" class="card-content">
           <div data-v-28f55286="" class="media">
           <div data-v-28f55286="" class="media-content">
-          <a data-v-28f55286="" href="#" target="_blank" class=""><h3 data-v-28f55286="" class="title
+          <a data-v-28f55286="" href="https://bigstring.netlify.app/" target="_blank" class=""><h3 data-v-28f55286="" class="title
               is-5
               has-text-weight-light
               ">
