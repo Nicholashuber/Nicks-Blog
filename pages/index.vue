@@ -483,7 +483,7 @@ Every time I successfully research and solve a complex issue or create something
               is-5
               has-text-weight-light
               ">
-            LWCsnipp.com
+            NicksLWC.com
           </h3> 
           
           
