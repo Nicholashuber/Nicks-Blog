@@ -1,6 +1,6 @@
 ---
-title: Building an API Gateway in AWS
-subtitle: A Step-by-Step Guide
+title: "Building an API Gateway in AWS: A Step-by-Step Guide"
+subtitle: Learning AWS
 category:
   - Blog
 author: Nick Huber
@@ -175,3 +175,14 @@ Term 1
 Term 2
   \~ Definition 2a
   \~ Definition 2b
+
+
+
+
+``` js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
