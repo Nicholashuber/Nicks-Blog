@@ -77,3 +77,6 @@ conn.tooling.executeAnonymous(apexBody, function(err, res) {
 });
 ```
 
+
+## If the code is still confusing don’t worry. 
+I’ll be making seperate posts with working examples on how to set everything up for the services listed here. This posts main purpose was to get you up to speed on why developers use these technologies and how it can change your orgs development life for the better.
