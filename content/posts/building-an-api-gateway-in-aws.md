@@ -7,182 +7,65 @@ author: Nick Huber
 date: 2023-07-27T18:36:29.060Z
 featureImage: /uploads/sfaws.png
 ---
-Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
+If you want to take AWS to the next level you will need to create an API Gateway. An API Gateway creates a url that allows you to post data to it and it passes it along to a connected Lambda function running Node.js.
 
-# h1 Heading
 
-## h2 Heading
+##After logging into AWS click on the search console and navigate to the API Gateway service.
 
-### h3 Heading
 
-#### h4 Heading
 
-##### h5 Heading
+##Once you are there go ahead and click “Create API”
 
-###### h6 Heading
 
-## Horizontal Rules
 
-- - -
+##Once on the next screen confirm you have the same options selected and click next:
 
-## Typographic replacements
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-test.. test... test..... test?..... test!....
+##Now you’ll need to click the “actions” drop down list and select “Create Method”:
 
-!!!!!! ???? ,,  -- ---
 
-"Smartypants, double quotes" and 'single quotes'
 
-## Emphasis
 
-**This is bold text**
 
-**This is bold text**
+Create a “POST” method and then click on the method you just created.
+Now you’ll want to fill in the details of your lambda function while keeping the default settings:
 
-_This is italic text_
 
-_This is italic text_
 
-~~Strikethrough~~
 
-## Blockquotes
 
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
+To simplify the way you recieve post data to your api gateway you should check the box next to “Use Lambda Proxy Iintegration” This allows you to easily parse data inside your lambda function.:
 
-## Lists
 
-Unordered
 
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
-  * Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
 
-Ordered
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
+If you dont already have a lambda function go ahead and create a blank one.
+You can learn how to create a Lambda function in my other post here:
 
-Start numbering with offset:
 
-57. foo
-58. bar
 
-## Code
+Now that you have saved your API Gateway along with your “POST” method you’ll want to deploy your changes. Click “Deploy API” like below:
 
-Inline `code`
 
-Indented code
 
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
 
-Block code "fences"
 
-```
-Sample text here...
-```
+You’ll be prompted to name a stage you want to deploy it as. Typically you’ll want to create a stage named “sandbox” and a stage named “prod”. Lets go ahead and name it Sandbox:
 
-## Tables
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
 
-Right aligned columns
+After clicking “deploy” you have now deployed your gateway setup to a stage giving a url you can post data to!
+In order to see the URL generated for your API Gateway you need to click on “Stages”
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
 
-## Links
 
-[link text](https://danielkelly.io)
 
-[link with title](https://danielkelly.io "title text!")
 
-Autoconverted link https://danielkelly.io
+A side panel will open showing the url you can now post to like this:
 
-## Images
 
-![cat](/uploads/cat-1045782_1920.jpg)
 
-## Subscript/SuperScript
 
-* 19^th^
-* H\~2\~O
-
-## Footnotes
-
-Footnote 1 link\[^first].
-
-Footnote 2 link\[^second].
-
-Inline footnote^\[Text of inline footnote] definition.
-
-Duplicated footnote reference\[^second].
-
-\[^first]: Footnote **can have markup**
-
-```
-and multiple paragraphs.
-```
-
-\[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-:   Definition 2
-
-```
-    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-```
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  \~ Definition 2a
-  \~ Definition 2b
-
-
-
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
+Use this url to send you post data over to a Lambda function you create.
