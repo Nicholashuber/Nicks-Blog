@@ -72,3 +72,7 @@ If you want to take AWS to the next level, you will need to create an API Gatewa
 
 ![cat](https://i.gyazo.com/7ff7181e5c59b235e6ff4c0d4d093ab3.png)
 
+
+14. Use this URL to send your post data over to a Lambda function you can attach to the api gateway you just created.
+
+
