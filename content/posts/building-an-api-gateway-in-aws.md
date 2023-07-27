@@ -16,10 +16,18 @@ If you want to take AWS to the next level, you will need to create an API Gatewa
 1. After logging into AWS, click on the search console and navigate to the API Gateway service.
 
 2. Once you are there, go ahead and click "Create API."
+![cat](https://i.gyazo.com/4784b2de36c307e38170b603ce2ea00b.png)
+
+
 
 3. On the next screen, confirm you have the same options selected and click "Next."
+![cat](https://i.gyazo.com/9e8118c52848e5e4734f7a9eb44f20a9.png)
+
+
 
 4. Now, you'll need to click the "Actions" drop-down list and select "Create Method."
+![cat](https://i.gyazo.com/e8896f150ed91052d03198ca403c933f.png)
+
 
 5. Create a "POST" method and then click on the method you just created.
 
