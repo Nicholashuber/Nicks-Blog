@@ -68,4 +68,8 @@ export default {
 .edit-post {
   margin-bottom: 20px;
 }
+.post-page .page-main-section .container {
+    border-radius: 25px;
+    background-color: #101012;
+}
 </style>
